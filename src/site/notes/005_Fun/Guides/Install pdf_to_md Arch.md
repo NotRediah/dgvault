@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/005-fun/guides/install-pdf-to-md-arch/","tags":["guide","linux"],"noteIcon":"","created":"2025-11-14T20:08:14.363+05:00","updated":"2025-11-12T14:26:36.782+05:00"}
+{"dg-publish":true,"permalink":"/005-fun/guides/install-pdf-to-md-arch/","tags":["guide","linux"],"created":"2025-11-14T20:08:14.363+05:00","updated":"2025-11-12T14:26:36.782+05:00"}
 ---
 
 https://github.com/M1ck4/pdf\_to\_md i am trying to install this on arch linux these are the steps i followed pipx install pymupdf # Clone the repository git clone https://github.com/M1ck4/pdf\_to\_md.git cd pdf\_to\_md and this is the error i get when i try to run it via this command ( python pdf\_to\_md.py ) ◎ python pdf\_to\_md.py □ pdf\_to\_md △⎪●◦⎥ py ⌉⌊ 3.13.7 10:17 Traceback (most recent call last): File "/home/zg/pdf\_to\_md/pdf\_to\_md.py", line 39, in <module> import tkinter as tk File "/usr/lib/python3.13/tkinter/\_\_init\_\_.py", line 38, in <module> import \_tkinter # If this fails your Python may not be configured for Tk ^^^^^^^^^^^^^^^ ImportError: libtk8.6.so: cannot open shared object file: No such file or directory

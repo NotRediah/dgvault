@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/005-fun/guides/markdown/","tags":["guide"],"noteIcon":"","created":"2025-11-14T20:08:14.337+05:00","updated":"2025-11-13T21:10:11.309+05:00"}
+{"dg-publish":true,"permalink":"/005-fun/guides/markdown/","tags":["guide"],"created":"2025-11-14T20:08:14.337+05:00","updated":"2025-11-13T21:10:11.309+05:00"}
 ---
 
 othe
