@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/index/","title":"Welcome Uncs!","tags":["gardenEntry"],"created":"2025-11-16T17:37:24.705+05:00","updated":"2025-11-16T17:44:13.701+05:00"}
+{"dg-publish":true,"permalink":"/index/","title":"Welcome Uncs!","tags":["gardenEntry"],"created":"2025-11-16T17:44:13.701+05:00","updated":"2025-11-16T17:44:13.701+05:00"}
 ---
 
 > ***"Finna tung till you sahur uwu <3"***

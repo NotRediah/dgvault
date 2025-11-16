@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/005-fun/games/pokemmo/gym-reruns/","tags":["guide"],"created":"2025-11-14T20:08:14.384+05:00","updated":"2025-11-14T11:00:50.223+05:00"}
+{"dg-publish":true,"permalink":"/005-fun/games/pokemmo/gym-reruns/","tags":["guide"],"created":"2025-11-14T11:00:50.223+05:00","updated":"2025-11-14T11:00:50.223+05:00"}
 ---
 
 # _**Hoenn**_

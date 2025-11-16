@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/004-knowledge/learning-science/interleaving/","tags":["icanstudy"],"created":"2025-11-14T20:08:14.319+05:00","updated":"2025-11-12T14:29:48.172+05:00"}
+{"dg-publish":true,"permalink":"/004-knowledge/learning-science/interleaving/","tags":["icanstudy"],"created":"2025-11-12T14:29:48.172+05:00","updated":"2025-11-16T20:54:03.588+05:00"}
 ---
 
 
-[[1.2-Resource-Interleaving Table - iCanStudy.pdf]] 
+![[1.2-Resource-Interleaving Table - iCanStudy.pdf]] 
 - [ ] Dump useful stuff into this page
 
 # Other

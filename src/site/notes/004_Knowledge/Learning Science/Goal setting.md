@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/004-knowledge/learning-science/goal-setting/","tags":["icanstudy"],"created":"2025-11-14T20:08:14.297+05:00","updated":"2025-11-12T14:29:48.054+05:00"}
+{"dg-publish":true,"permalink":"/004-knowledge/learning-science/goal-setting/","tags":["icanstudy"],"created":"2025-11-12T14:29:48.054+05:00","updated":"2025-11-12T14:29:48.054+05:00"}
 ---
 
 - [ ] continue at protecting time lec folder 4

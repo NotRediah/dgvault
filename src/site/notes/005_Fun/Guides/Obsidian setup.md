@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/005-fun/guides/obsidian-setup/","tags":["guide"],"created":"2025-11-14T20:08:14.370+05:00","updated":"2025-11-13T21:10:11.299+05:00"}
+{"dg-publish":true,"permalink":"/005-fun/guides/obsidian-setup/","tags":["guide"],"created":"2025-11-13T21:10:11.299+05:00","updated":"2025-11-13T21:10:11.299+05:00"}
 ---
 
 - [x] explore ✅ 2025-11-13

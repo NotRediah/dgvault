@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/005-fun/guides/pdf-to-md-py/","tags":["guide"],"created":"2025-11-14T20:08:14.347+05:00","updated":"2025-11-12T14:26:37.082+05:00"}
+{"dg-publish":true,"permalink":"/005-fun/guides/pdf-to-md-py/","tags":["guide"],"created":"2025-11-12T14:26:37.082+05:00","updated":"2025-11-12T14:26:37.082+05:00"}
 ---
 
 - [ ] make a script that does it for you
