@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/500-fun/guides/obsidian-setup/","tags":["guide"],"created":"2025-11-14T15:44:39.783+05:00","updated":"2025-11-24T19:56:23.733+05:00"}
+{"dg-publish":true,"permalink":"/500-fun/guides/obsidian-setup/","tags":["guide"],"created":"2025-11-14T15:44:39.783+05:00","updated":"2025-11-24T20:16:20.289+05:00"}
 ---
 
 
@@ -19,6 +19,7 @@
 	- Another alternative this one i *prefer*, is to only use tags for organizational needs like say in my stu-dying folder i have no sub folders and only use # tags and nested # tags as categorization i could still use folders for the big stuff and include tags that doesn't really change anything but just a thought ig
 	- **UPDATE** 24 Nov
 		- Tags are for certain things mainly using manually made mocs with plugins initially did find them use ful 
+
 ##### Plugins
 ##### Essential
 - Excalidraw
@@ -55,21 +56,22 @@
 	- Tags are gonna be the primary thing i use since they are better at dealing with notes that fall into multiple categories
 ##### Switching to a physical journal
 - kinda unnecessary to have a journal in obsidian the ability to add attachments is nice tho
-	- [ ] watch reysus video on integrating analog methods aswell [the hybrid note-taking system I wish I learned earlier](https://www.youtube.com/watch?v=mq0XvGPSm9w&t=14s) [link](https://app.todoist.com/app/task/9764893452) #todoist  
+	- [x] watch reysus video on integrating analog methods aswell [the hybrid note-taking system I wish I learned earlier](https://www.youtube.com/watch?v=mq0XvGPSm9w&t=14s) [link](https://app.todoist.com/app/task/9764893452) #todoist   ✅ 2025-11-24
+
 
 # Archived
 
-- [x] add plugin (tag folders/glossary) ✅ 2025-11-04 🔒 [[2025-11-24\|2025-11-24]] 🕸️ Obsidian setup
-- [x] switch to only one vault????? and use bases or soemthing for funni usage ✅ 2025-11-05 🔒 [[2025-11-24\|2025-11-24]] 🕸️ Obsidian setup
-- [x] explore ✅ 2025-11-13 🔒 [[2025-11-24\|2025-11-24]] 🕸️ Obsidian setup
+- [x] add plugin (tag folders/glossary) ✅ 2025-11-04 🔒 [[2025-11-24\|2025-11-24]] 🕸️ Obsidian setup 🔒 [[2025-11-24\|2025-11-24]] 🕸️ Obsidian web clipper > Plugins > Essential > Non-Essential > Switching to a physical journal
+- [x] switch to only one vault????? and use bases or soemthing for funni usage ✅ 2025-11-05 🔒 [[2025-11-24\|2025-11-24]] 🕸️ Obsidian setup 🔒 [[2025-11-24\|2025-11-24]] 🕸️ Obsidian web clipper > Plugins > Essential > Non-Essential > Switching to a physical journal
+- [x] explore ✅ 2025-11-13 🔒 [[2025-11-24\|2025-11-24]] 🕸️ Obsidian setup 🔒 [[2025-11-24\|2025-11-24]] 🕸️ Obsidian web clipper > Plugins > Essential > Non-Essential > Switching to a physical journal
 	- [x] mocs ✅ 2025-11-07
 	- [x] breadcrumbs ✅ 2025-11-16
-- [x] exclude some folders from graph view like (tasks, icanstudy etc.) ✅ 2025-11-16 🔒 [[2025-11-24\|2025-11-24]] 🕸️ Obsidian setup
-- [x] MOC plugins ???? (maps of content (like the ones on obsidian wikis and shi)) 🔒 [[2025-11-24\|2025-11-24]] 🕸️ Obsidian setup
-	-~~turns out it isn't really necessary kinda convenient but i would rather just use the graph view and modify as needed ~~
-- [x] fix the file explorer being empty issue smh 🔒 [[2025-11-24\|2025-11-24]] 🕸️ Obsidian setup
-	- ~~had to hard reset vault~~
-- [x] find the plugin that allows to resolve syncthing conflicts  🔒 [[2025-11-24\|2025-11-24]] 🕸️ Obsidian setup
-- [x] ignore folders (plugins/etc) 🔒 [[2025-11-24\|2025-11-24]] 🕸️ Obsidian setup
+- [x] exclude some folders from graph view like (tasks, icanstudy etc.) ✅ 2025-11-16 🔒 [[2025-11-24\|2025-11-24]] 🕸️ Obsidian setup 🔒 [[2025-11-24\|2025-11-24]] 🕸️ Obsidian web clipper > Plugins > Essential > Non-Essential > Switching to a physical journal
+- [x] ignore folders (plugins/etc) 🔒 [[2025-11-24\|2025-11-24]] 🕸️ Obsidian setup 🔒 [[2025-11-24\|2025-11-24]] 🕸️ Obsidian web clipper > Plugins > Essential > Non-Essential > Switching to a physical journal
 	- decided wasn't worth the hassle
 	- [x] find a way to keep it always open(by it i mean syncthing on android) ✅ 2025-11-07
+- [x] find the plugin that allows to resolve syncthing conflicts  🔒 [[2025-11-24\|2025-11-24]] 🕸️ Obsidian setup 🔒 [[2025-11-24\|2025-11-24]] 🕸️ Obsidian web clipper > Plugins > Essential > Non-Essential > Switching to a physical journal
+- [x] fix the file explorer being empty issue smh 🔒 [[2025-11-24\|2025-11-24]] 🕸️ Obsidian setup 🔒 [[2025-11-24\|2025-11-24]] 🕸️ Obsidian web clipper > Plugins > Essential > Non-Essential > Switching to a physical journal
+	- ~~had to hard reset vault~~
+- [x] MOC plugins ???? (maps of content (like the ones on obsidian wikis and shi)) 🔒 [[2025-11-24\|2025-11-24]] 🕸️ Obsidian setup 🔒 [[2025-11-24\|2025-11-24]] 🕸️ Obsidian web clipper > Plugins > Essential > Non-Essential > Switching to a physical journal
+	-~~turns out it isn't really necessary kinda convenient but i would rather just use the graph view and modify as needed ~~
