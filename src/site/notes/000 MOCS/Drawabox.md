@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/000-mocs/drawabox/","created":"2025-11-25T11:08:10.616+05:00","updated":"2025-11-25T11:36:40.958+05:00"}
+{"dg-publish":true,"permalink":"/000-mocs/drawabox/","created":"2025-11-25T11:08:10.616+05:00","updated":"2025-11-25T11:39:28.456+05:00"}
 ---
 
 > Gonna take "> 5 months"
@@ -19,3 +19,9 @@
 ![Drawabox roadmap.jpg](/img/user/zawaruto-assets/attachments/Drawabox%20roadmap.jpg)
 
 
+# What does it not teach
+- Light 
+- Color Theory 
+- Gesture
+- Anatomy
+- Style
