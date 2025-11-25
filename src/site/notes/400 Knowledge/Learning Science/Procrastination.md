@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/400-knowledge/learning-science/procrastination/","tags":["icanstudy"],"created":"2025-11-05T21:02:24.686+05:00","updated":"2025-11-21T16:02:57.772+05:00"}
 ---
 
-`moc: [[300 References/MOCS/ICS\|ICS]]
+`moc: [[000 MOCS/ICS\|ICS]]
 
 ---
 > *When you try and set obsidian up instead of actually studying*

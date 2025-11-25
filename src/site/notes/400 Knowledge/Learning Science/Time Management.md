@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/400-knowledge/learning-science/time-management/","tags":["icanstudy"],"created":"2025-11-05T20:53:44.478+05:00","updated":"2025-11-21T16:00:10.122+05:00"}
 ---
 
-moc: [[300 References/MOCS/ICS\|ICS]]
+moc: [[000 MOCS/ICS\|ICS]]
 
 ---
 > "*Manage your time no shit sherlock*"

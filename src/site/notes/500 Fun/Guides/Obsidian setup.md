@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/500-fun/guides/obsidian-setup/","tags":["guide"],"created":"2025-11-14T15:44:39.783+05:00","updated":"2025-11-24T20:16:20.289+05:00"}
+{"dg-publish":true,"permalink":"/500-fun/guides/obsidian-setup/","tags":["guide"],"created":"2025-11-24T20:54:07.200+05:00","updated":"2025-11-25T10:46:23.597+05:00"}
 ---
 
 
 - [ ] setup shortcuts unc (dg tasks etc)
-- [ ] fix quick add to add to top of file
+- [x] fix quick add to add to top of file ✅ 2025-11-25
 
 > ***Fair warning this shit is fucky***
 >  Also quick guide to [[500 Fun/Guides/Markdown\|Markdown]]

@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/400-knowledge/learning-science/spaced-repetition/","tags":["icanstudy"],"created":"2025-11-05T21:15:41.941+05:00","updated":"2025-11-21T16:00:03.920+05:00"}
 ---
 
-moc: [[300 References/MOCS/ICS\|ICS]]
+moc: [[000 MOCS/ICS\|ICS]]
 
 ---
 ```

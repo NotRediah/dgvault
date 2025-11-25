@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/400-knowledge/learning-science/interleaving/","tags":["icanstudy"],"created":"2025-11-05T21:19:49.349+05:00","updated":"2025-11-21T15:59:30.091+05:00"}
 ---
 
-moc: [[300 References/MOCS/ICS\|ICS]]
+moc: [[000 MOCS/ICS\|ICS]]
 
 ---
 [[1.2-Resource-Interleaving Table - iCanStudy.pdf]] 

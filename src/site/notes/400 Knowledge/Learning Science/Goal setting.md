@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/400-knowledge/learning-science/goal-setting/","tags":["icanstudy"],"created":"2025-11-06T20:33:47.094+05:00","updated":"2025-11-21T15:59:03.426+05:00"}
 ---
 
-moc: [[300 References/MOCS/ICS\|ICS]]
+moc: [[000 MOCS/ICS\|ICS]]
 
 ---
 - [ ] continue at protecting time lec folder 4 #icanstudy

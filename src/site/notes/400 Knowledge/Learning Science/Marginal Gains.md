@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/400-knowledge/learning-science/marginal-gains/","tags":["icanstudy"],"created":"2025-11-06T11:17:53.947+05:00","updated":"2025-11-21T15:59:49.415+05:00"}
 ---
 
-moc: [[300 References/MOCS/ICS\|ICS]]
+moc: [[000 MOCS/ICS\|ICS]]
 
 ---
 # Additive Gains vs Compounding Gains

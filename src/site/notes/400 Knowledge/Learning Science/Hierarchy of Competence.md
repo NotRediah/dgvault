@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/400-knowledge/learning-science/hierarchy-of-competence/","tags":["icanstudy"],"created":"2025-11-06T12:12:24.999+05:00","updated":"2025-11-21T15:59:25.412+05:00"}
 ---
 
-moc: [[300 References/MOCS/ICS\|ICS]]
+moc: [[000 MOCS/ICS\|ICS]]
 
 ---
 
