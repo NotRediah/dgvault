@@ -9,8 +9,8 @@
 > This isn't meant to be the only material you're still gonna have to draw unc
 
 # Lessons
-[[300 Not mine/Courses/Drawabox/Lesson 0\|Lesson 0]]
-[[300 Not mine/Courses/Drawabox/Lesson 1\|Lesson 1]]
+[[300 Consumption/Courses/Drawabox/Lesson 0\|Lesson 0]]
+[[300 Consumption/Courses/Drawabox/Lesson 1\|Lesson 1]]
 # Goal
 - improving spatial reasoning 
 	thinking in 3 dimensions unc 

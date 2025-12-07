@@ -9,7 +9,7 @@
 - [[Proko\|Proko]]
 - Lumis method (for faces ig)
 # Fundamentals
-[[000 MOCS/Perspective and Construction\|Perspective and Construction]]
+[[Perspective and Construction\|Perspective and Construction]]
 [[Gesture\|Gesture]]
 [[Anatomy\|Anatomy]]
 [[Color theory\|Color theory]]
