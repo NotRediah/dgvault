@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/500-fun/guides/configuration-nix/","tags":["linux/config"],"created":"2025-11-14T15:44:45.114+05:00","updated":"2025-11-12T14:26:37.042+05:00"}
+{"dg-publish":true,"permalink":"/500-fun/guides/configuration-nix/","tags":["linux/config"],"created":"2026-04-23T23:37:25.632+05:00","updated":"2026-04-23T23:37:25.632+05:00","dg-note-properties":{"tags":["linux/config"]}}
 ---
 
 

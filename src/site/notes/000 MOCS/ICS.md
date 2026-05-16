@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/000-mocs/ics/","created":"2025-11-07T13:09:42.443+05:00","updated":"2025-11-22T13:07:28.331+05:00"}
+{"dg-publish":true,"permalink":"/000-mocs/ics/","created":"2026-04-23T23:37:25.626+05:00","updated":"2026-04-23T23:37:25.626+05:00","dg-note-properties":{"Aliases":["#icanstudy"]}}
 ---
 
 Am gonna kms 

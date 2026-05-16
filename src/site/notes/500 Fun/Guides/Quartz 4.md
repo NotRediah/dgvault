@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/500-fun/guides/quartz-4/","tags":["guide"],"created":"2025-11-14T15:44:45.024+05:00","updated":"2025-11-16T21:28:43.015+05:00"}
+{"dg-publish":true,"permalink":"/500-fun/guides/quartz-4/","tags":["guide"],"created":"2026-04-23T23:37:25.632+05:00","updated":"2026-04-23T23:37:25.632+05:00","dg-note-properties":{"tags":["guide"]}}
 ---
 
 # Resources

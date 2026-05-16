@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/000-mocs/drawing/","created":"2025-11-25T09:23:50.341+05:00","updated":"2025-11-25T13:57:08.954+05:00"}
+{"dg-publish":true,"permalink":"/000-mocs/drawing/","created":"2026-04-23T23:37:25.626+05:00","updated":"2026-04-23T23:37:25.626+05:00","dg-note-properties":{}}
 ---
 
 

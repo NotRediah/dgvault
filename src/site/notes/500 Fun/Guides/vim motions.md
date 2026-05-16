@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/500-fun/guides/vim-motions/","tags":["guide","linux"],"created":"2025-11-14T15:44:45.069+05:00","updated":"2025-11-13T21:10:11.283+05:00"}
+{"dg-publish":true,"permalink":"/500-fun/guides/vim-motions/","tags":["guide","linux"],"created":"2026-04-23T23:37:25.633+05:00","updated":"2026-04-23T23:37:25.633+05:00","dg-note-properties":{"tags":["guide","linux"]}}
 ---
 
 

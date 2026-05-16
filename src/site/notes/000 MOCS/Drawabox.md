@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/000-mocs/drawabox/","created":"2025-11-25T11:08:10.616+05:00","updated":"2025-11-25T20:45:06.371+05:00"}
+{"dg-publish":true,"permalink":"/000-mocs/drawabox/","created":"2026-04-23T23:37:25.626+05:00","updated":"2026-04-23T23:37:25.626+05:00","dg-note-properties":{}}
 ---
 
 > Gonna take "> 5 months"

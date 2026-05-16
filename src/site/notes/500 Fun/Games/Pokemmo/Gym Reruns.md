@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/500-fun/games/pokemmo/gym-reruns/","tags":["guide"],"created":"2025-11-14T15:44:34.786+05:00","updated":"2025-11-14T11:00:50.223+05:00"}
+{"dg-publish":true,"permalink":"/500-fun/games/pokemmo/gym-reruns/","tags":["guide"],"created":"2026-04-23T23:37:25.630+05:00","updated":"2026-04-23T23:37:25.630+05:00","dg-note-properties":{"tags":["guide"],"publish":true}}
 ---
 
 # _**Hoenn**_
  
-![HOENN.webp|581x402](/img/user/zawaruto-assets/attachments/HOENN.webp)
+![HOENN.webp\|581x402](/img/user/zawaruto-assets/attachments/HOENN.webp)
 **Start at to Mossdeep Town (Psychic)** - Use charm, drought setup
 
 **Fly to Mauville City (Electric)** - Typhlosion lead no setup *note Electrode
@@ -104,7 +104,7 @@ _TP Reset_
 # _**Income**_
 
 - _**Half-run**_
-    ![Untitled.webp|day 1 earning](/img/user/zawaruto-assets/attachments/Untitled.webp)
+    ![Untitled.webp\|day 1 earning](/img/user/zawaruto-assets/attachments/Untitled.webp)
     ![[Untitled-1.webp|day 2 earning]
     
     

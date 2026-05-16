@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/300-consumption/courses/drawabox/lesson-1/","created":"2025-12-07T12:38:52.816+05:00","updated":"2025-12-07T13:41:45.299+05:00"}
+{"dg-publish":true,"permalink":"/300-consumption/courses/drawabox/lesson-1/","created":"2026-04-23T23:37:25.629+05:00","updated":"2026-05-12T21:40:19.693+05:00","dg-note-properties":{}}
 ---
 
 course: [[000 MOCS/Drawabox\|Drawabox]]
@@ -11,13 +11,13 @@ course: [[000 MOCS/Drawabox\|Drawabox]]
 - Marks must flow continuously
 > [!NOTE] Chicken scratching
 > Avoid this bs 
-> ![image-3.webp](/img/user/zawaruto-assets/attachments/image-3.webp)
+> ![zawaruto-assets/image-3.webp](/img/user/zawaruto-assets/image-3.webp)
 - should flow smoothly -  ghosting helps
 	- from shoulder 
 	- don't go too slow  
 - consistent trajectory
 	- For repeating patterns break down the pattern into strokes instead of doing it in one big motion
-	![image-4.webp](/img/user/zawaruto-assets/attachments/image-4.webp)
+	![zawaruto-assets/image-4.webp](/img/user/zawaruto-assets/image-4.webp)
 ## Ghosting
 <iframe src="https://www.youtube.com/embed/LkJG6pKTuRc" title="unc" style="width:100%; aspect-ratio:16/9" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
 ## Ghosted Planes 

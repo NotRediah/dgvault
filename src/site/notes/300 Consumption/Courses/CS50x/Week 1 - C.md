@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/300-consumption/courses/cs-50x/week-1-c/","created":"2025-12-07T22:18:17.508+05:00","updated":"2025-12-07T22:52:37.095+05:00"}
+{"dg-publish":true,"permalink":"/300-consumption/courses/cs-50x/week-1-c/","created":"2026-04-23T23:37:25.629+05:00","updated":"2026-04-23T23:37:25.629+05:00","dg-note-properties":{}}
 ---
 
-2025-12-07 00:12
+x2025-12-07 00:12
 course:[[000 MOCS/CS50x\|CS50x]]
 
-
+> ***This was a shit show***
 # Hello World
 ![image-9.webp](/img/user/zawaruto-assets/attachments/image-9.webp)
 - Difference between print and printf
@@ -126,7 +126,7 @@ printf ("you are gay","sissy");
 	hello, sisy
 	```
 # Conditionals
-![Screenshot_20251206-140755.jpg|466x209](/img/user/zawaruto-assets/attachments/Screenshot_20251206-140755.jpg) 
+![Screenshot_20251206-140755.jpg\|466x209](/img/user/zawaruto-assets/attachments/Screenshot_20251206-140755.jpg) 
 ```
 if (x < y)
 {
@@ -165,7 +165,7 @@ else if (x == y)
 	```
 # Operators
 
-![image-14.webp|466x247](/img/user/zawaruto-assets/attachments/image-14.webp)
+![image-14.webp\|466x247](/img/user/zawaruto-assets/attachments/image-14.webp)
 ```
 - = return value
 - < less than
@@ -521,7 +521,7 @@ int get_positive_int(void)
 }
 ```
 - why is int get_positive_int(void) different from the rest,with regards to the int and void placement?
-		![IMG_20251207_221750.jpg|382x286](/img/user/zawaruto-assets/attachments/IMG_20251207_221750.jpg)
+		![IMG_20251207_221750.jpg\|382x286](/img/user/zawaruto-assets/attachments/IMG_20251207_221750.jpg)
 
 - [ ] 1:50:00 in vid elaborating on synctax for this shit  also define data types and the other thingy in the file [link](https://app.todoist.com/app/task/9805845873) #todoist  
 
@@ -553,3 +553,20 @@ make sure variable never changes
 - [ ] Continue at 2:12
 
 # Return values
+
+
+
+# Integer Overflow
+- solution
+	using longs instead of integer
+# Truncation
+issues with division when using integers it doesn't reutrn whole values
+	floats fix this
+	you can also use casting vlues to fix this
+		![image-21.webp](/img/user/zawaruto-assets/attachments/image-21.webp)
+# FLoating point imprescision
+- doubles kinda fix
+
+
+> [!NOTE] Relation between floating point imprecision and integer overflow
+> 

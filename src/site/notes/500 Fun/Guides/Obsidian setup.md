@@ -1,7 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/500-fun/guides/obsidian-setup/","tags":["guide"],"created":"2025-11-24T20:54:07.200+05:00","updated":"2025-11-25T10:46:23.597+05:00"}
+{"dg-publish":true,"permalink":"/500-fun/guides/obsidian-setup/","tags":["guide"],"created":"2026-04-23T23:37:25.631+05:00","updated":"2026-05-13T17:51:29.633+05:00","dg-note-properties":{"tags":["guide"]}}
 ---
 
+- [ ] fix excalidraw settings for the svg sync 
+- [ ] get vimrc support working please
+- [ ] Setup shortcuts for everything
+- [ ] Big excalidraw boards for everything related to a subject and find a way to insert notes in there aswell (go through the excalidraw vid)
+- [ ] Task setup make it better(kinda passable rn) on the phone aswell
+- [ ] Add more views to all my bases
 
 - [ ] setup shortcuts unc (dg tasks etc)
 - [x] fix quick add to add to top of file ✅ 2025-11-25
@@ -17,8 +23,6 @@
 - ##### Tags usage
 	- rn idgas but potentially what i have considered is using tags to replace folders, got the idea from  a video and use the tags folder addon to overview the folder and shit 
 	- Another alternative this one i *prefer*, is to only use tags for organizational needs like say in my stu-dying folder i have no sub folders and only use # tags and nested # tags as categorization i could still use folders for the big stuff and include tags that doesn't really change anything but just a thought ig
-	- **UPDATE** 24 Nov
-		- Tags are for certain things mainly using manually made mocs with plugins initially did find them use ful 
 
 ##### Plugins
 ##### Essential
@@ -57,6 +61,24 @@
 ##### Switching to a physical journal
 - kinda unnecessary to have a journal in obsidian the ability to add attachments is nice tho
 	- [x] watch reysus video on integrating analog methods aswell [the hybrid note-taking system I wish I learned earlier](https://www.youtube.com/watch?v=mq0XvGPSm9w&t=14s) [link](https://app.todoist.com/app/task/9764893452) #todoist   ✅ 2025-11-24
+
+# Changes to the Setup
+- **UPDATE** 24 Nov 25
+- Tags are for certain things mainly using manually made mocs with plugins initially did find them use ful 
+- **UPDATE** 13 May 2026
+	this is from sylvan franklins obsidian vid [[100 Inbox/Videos/Interview with Obsidian enthusiast 2026\|Interview with Obsidian enthusiast 2026]]
+		  My own implementation of it is still in progress I overhauled my vault yesterday with the following changes
+			- bases section for consumption
+			- made a buncha templates with frontmatter hella 
+			- and cleaned the vault up a bit
+		- Tag related changes I'll be making today
+			[[100 Inbox/tag reference\|tag reference]]
+		-  
+		
+
+
+
+
 
 
 # Archived

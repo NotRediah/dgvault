@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/300-consumption/courses/drawabox/lesson-0/","created":"2025-12-07T12:38:53.201+05:00","updated":"2025-12-07T13:37:02.969+05:00"}
+{"dg-publish":true,"permalink":"/300-consumption/courses/drawabox/lesson-0/","created":"2026-04-23T23:37:25.629+05:00","updated":"2026-05-12T21:40:13.539+05:00","dg-note-properties":{}}
 ---
 
 course: [[000 MOCS/Drawabox\|Drawabox]]
@@ -7,7 +7,7 @@ course: [[000 MOCS/Drawabox\|Drawabox]]
 - 50% rule (equal time for theory/course practice and fucking around smh)
 - [ ] integrate a thingy (time tracker in obsidian to log time practicing stuff and whatnot)
 - [ ] Also signup for drawabox maybe idk how it works
-	![image-1.webp](/img/user/zawaruto-assets/attachments/image-1.webp)
+	![zawaruto-assets/image-1.webp](/img/user/zawaruto-assets/image-1.webp)
 - You're not gonna develop bad habits unc just do shit
 - don't rush spaced repetition important
 - start with reference 1 then use multiple references once you get comfortable ig  
