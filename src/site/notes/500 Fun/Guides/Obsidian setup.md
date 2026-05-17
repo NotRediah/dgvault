@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/500-fun/guides/obsidian-setup/","tags":["guide"],"created":"2026-04-23T23:37:25.631+05:00","updated":"2026-05-13T17:51:29.633+05:00","dg-note-properties":{"tags":["guide"]}}
+{"dg-publish":true,"permalink":"/500-fun/guides/obsidian-setup/","tags":["guide"],"created":"2026-04-23T23:37:25.631+05:00","updated":"2026-05-16T19:50:48.851+05:00","dg-note-properties":{"tags":["guide"]}}
 ---
 
 - [ ] fix excalidraw settings for the svg sync 
@@ -75,7 +75,7 @@
 			[[100 Inbox/tag reference\|tag reference]]
 		-  
 		
-
+- 16-5-2026 Added the birdy plugin and the excalidraw markdown same note template Excalidraw_temp 
 
 
 
