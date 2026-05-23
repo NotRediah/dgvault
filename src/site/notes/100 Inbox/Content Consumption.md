@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/100-inbox/content-consumption/","created":"2026-05-17T22:55:24.116+05:00","updated":"2026-05-17T22:55:24.116+05:00","dg-note-properties":{"publish":true}}
+{"dg-publish":true,"permalink":"/100-inbox/content-consumption/","created":"2026-05-17T22:34:27.725+05:00","updated":"2026-05-17T22:55:24.117+05:00","dg-note-properties":{"publish":true}}
 ---
 
 

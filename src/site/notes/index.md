@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/index/","title":"Welcome Uncs!","tags":["gardenEntry"],"created":"2026-05-17T22:51:32.369+05:00","updated":"2026-05-17T22:51:32.369+05:00","dg-note-properties":{"title":"Welcome Uncs!","publish":true}}
+{"dg-publish":true,"permalink":"/index/","title":"Welcome Uncs!","tags":["gardenEntry"],"created":"2026-04-23T23:37:27.551+05:00","updated":"2026-05-17T22:51:32.370+05:00","dg-note-properties":{"title":"Welcome Uncs!","publish":true}}
 ---
 
 > ***"Finna tung till you sahur 67 uwu <3"***
