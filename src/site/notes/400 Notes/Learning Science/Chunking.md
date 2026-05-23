@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/400-notes/learning-science/chunking/","tags":["icanstudy"],"created":"2026-04-23T23:37:25.629+05:00","updated":"2026-04-23T23:37:25.629+05:00","dg-note-properties":{"tags":["icanstudy"],"aliases":["Grouping"]}}
+{"dg-publish":true,"tags":["icanstudy"],"aliases":["Grouping"],"permalink":"/400-notes/learning-science/chunking/","dgPassFrontmatter":true,"created":"2026-04-23T23:37:25.629+05:00","updated":"2026-04-23T23:37:25.629+05:00","dg-note-properties":{"tags":["icanstudy"],"aliases":["Grouping"]}}
 ---
 
 moc: [[000 MOCS/ICS\|ICS]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/300-consumption/courses/cs-50x/week-0-scratch/","created":"2026-04-23T23:37:25.629+05:00","updated":"2026-04-23T23:37:25.629+05:00","dg-note-properties":{"source":"https://cs50.harvard.edu/x/weeks/0/"}}
+{"source":"https://cs50.harvard.edu/x/weeks/0/","dg-publish":true,"permalink":"/300-consumption/courses/cs-50x/week-0-scratch/","dgPassFrontmatter":true,"created":"2026-04-23T23:37:25.629+05:00","updated":"2026-04-23T23:37:25.629+05:00","dg-note-properties":{"source":"https://cs50.harvard.edu/x/weeks/0/"}}
 ---
 
 2025-12-07 00:11

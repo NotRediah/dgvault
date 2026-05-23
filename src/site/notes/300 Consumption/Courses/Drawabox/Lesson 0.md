@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/300-consumption/courses/drawabox/lesson-0/","created":"2026-04-23T23:37:25.629+05:00","updated":"2026-05-12T21:40:13.539+05:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/300-consumption/courses/drawabox/lesson-0/","dgPassFrontmatter":true,"created":"2026-04-23T23:37:25.629+05:00","updated":"2026-05-12T21:40:13.539+05:00","dg-note-properties":{}}
 ---
 
 course: [[000 MOCS/Drawabox\|Drawabox]]

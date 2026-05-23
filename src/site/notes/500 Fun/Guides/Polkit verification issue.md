@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/500-fun/guides/polkit-verification-issue/","tags":["guide","linux/issue"],"created":"2026-04-23T23:37:25.631+05:00","updated":"2026-04-23T23:37:25.631+05:00","dg-note-properties":{"tags":["guide","linux/issue"],"aliases":["drive-mounting-issue"]}}
+{"dg-publish":true,"tags":["guide","linux/issue"],"aliases":["drive-mounting-issue"],"permalink":"/500-fun/guides/polkit-verification-issue/","dgPassFrontmatter":true,"created":"2026-04-23T23:37:25.631+05:00","updated":"2026-04-23T23:37:25.631+05:00","dg-note-properties":{"tags":["guide","linux/issue"],"aliases":["drive-mounting-issue"]}}
 ---
 
 ## Enable all the required components

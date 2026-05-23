@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/500-fun/projects/obscura-vault/","tags":["notion"],"created":"2026-04-23T23:37:25.633+05:00","updated":"2026-04-23T23:37:25.633+05:00","dg-note-properties":{"tags":["notion"]}}
+{"dg-publish":true,"tags":["notion"],"permalink":"/500-fun/projects/obscura-vault/","dgPassFrontmatter":true,"created":"2026-04-23T23:37:25.633+05:00","updated":"2026-04-23T23:37:25.633+05:00","dg-note-properties":{"tags":["notion"]}}
 ---
 
 

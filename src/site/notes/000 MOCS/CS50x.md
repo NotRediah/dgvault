@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/000-mocs/cs-50x/","tags":["computer-science","courses"],"created":"2026-04-23T23:37:25.626+05:00","updated":"2026-04-23T23:37:25.626+05:00","dg-note-properties":{"tags":["computer-science","courses"],"source":"https://cs50.harvard.edu/x/weeks/0/"}}
+{"tags":["computer-science","courses"],"source":"https://cs50.harvard.edu/x/weeks/0/","dg-publish":true,"permalink":"/000-mocs/cs-50x/","dgPassFrontmatter":true,"created":"2026-04-23T23:37:25.626+05:00","updated":"2026-04-23T23:37:25.626+05:00","dg-note-properties":{"tags":["computer-science","courses"],"source":"https://cs50.harvard.edu/x/weeks/0/"}}
 ---
 
 > Ik you're gonna stress out about this again so here is a post explaining [the course closing on dec 31 25](https://www.reddit.com/r/cs50/comments/1nq2jdy/cs50_courses_ending_in_2025/)

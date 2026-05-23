@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/500-fun/guides/quartz-4/","tags":["guide","excalidraw"],"created":"2026-04-23T23:37:25.632+05:00","updated":"2026-05-23T21:59:16.169+05:00","dg-note-properties":{"tags":["guide","excalidraw"],"excalidraw-plugin":"parsed","excalidraw-open-md":true,"image":"Quartz 4.svg"}}
+{"dg-publish":true,"tags":["guide","excalidraw"],"excalidraw-plugin":"parsed","excalidraw-open-md":true,"image":"Quartz 4.svg","permalink":"/500-fun/guides/quartz-4/","dgPassFrontmatter":true,"created":"2026-04-23T23:37:25.632+05:00","updated":"2026-05-23T21:59:16.169+05:00","dg-note-properties":{"tags":["guide","excalidraw"],"excalidraw-plugin":"parsed","excalidraw-open-md":true,"image":"Quartz 4.svg"}}
 ---
 
 # Resources
