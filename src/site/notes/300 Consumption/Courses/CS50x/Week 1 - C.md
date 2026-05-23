@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/300-consumption/courses/cs-50x/week-1-c/","created":"2026-04-23T23:37:25.629+05:00","updated":"2026-04-23T23:37:25.629+05:00","dg-note-properties":{"todoist_id":"9805845873"}}
+{"dg-publish":true,"permalink":"/300-consumption/courses/cs-50x/week-1-c/","created":"2026-04-23T23:37:25.629+05:00","updated":"2026-04-23T23:37:25.629+05:00","dg-note-properties":{}}
 ---
 
 x2025-12-07 00:12

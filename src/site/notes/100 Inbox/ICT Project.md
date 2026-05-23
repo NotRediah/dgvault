@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/100-inbox/ict-project/","tags":["excalidraw"],"created":"2026-05-17T09:05:24.944+05:00","updated":"2026-05-23T16:30:29.168+05:00","dg-note-properties":{"excalidraw-plugin":"parsed","tags":["excalidraw"],"excalidraw-open-md":true,"image":"ICT Project.svg"}}
+{"dg-publish":true,"permalink":"/100-inbox/ict-project/","tags":["excalidraw"],"created":"2026-05-17T09:05:24.944+05:00","updated":"2026-05-23T21:59:20.780+05:00","dg-note-properties":{"excalidraw-plugin":"parsed","tags":["excalidraw"],"excalidraw-open-md":true,"image":"ICT Project.svg"}}
 ---
 
 ```

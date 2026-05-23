@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/500-fun/guides/obsidian-setup/","tags":["guide"],"created":"2026-04-23T23:37:25.631+05:00","updated":"2026-05-23T17:11:21.362+05:00","dg-note-properties":{"tags":["guide"],"publish":true,"todoist_id":"9764893452"}}
+{"dg-publish":true,"permalink":"/500-fun/guides/obsidian-setup/","tags":["guide"],"created":"2026-04-23T23:37:25.631+05:00","updated":"2026-05-23T17:11:21.362+05:00","dg-note-properties":{"tags":["guide"],"publish":true}}
 ---
 
 - [x] fix excalidraw settings for the svg sync ✅ 2026-05-20
