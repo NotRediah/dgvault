@@ -1,30 +1,39 @@
 ---
-{"dg-publish":true,"permalink":"/100-inbox/alternative-keyboard-layout/","tags":["guide"],"created":"2026-05-23T22:40:20.177+05:00","updated":"2026-05-23T23:54:34.052+05:00","dg-note-properties":{"class":["project"],"created_on":"23-05-26 @ 22:54","tags":["guide"],"source":null,"related":null,"description":null,"aliases":["AKL"],"status":"open"}}
+{"dg-publish":true,"permalink":"/100-inbox/alternative-keyboard-layout/","tags":["guide"],"created":"2026-05-23T22:40:20.177+05:00","updated":"2026-05-24T00:05:44.058+05:00","dg-note-properties":{"class":["project"],"created_on":"23-05-26 @ 22:54","tags":["guide"],"source":null,"related":null,"description":null,"aliases":["AKL","akl"],"status":"open"}}
 ---
 
 # Metrics
+
+> [!warning] Note
+> All examples are given with reference to qwerty if not explicitly mentioned otherwise
+
 ## Same Finger Bi-gram
  - Using the same key for two letters two times in a row can be minimized with alt-fingering 
+	 - "t r" in "train"
 ## Same Finger Skip-gram
 - Using the same key for two letters with one key press in between
+	- "b r" and "u n" in "burn"
 ## Hand usage
 - Just the relative hand usage 
 ## Scissoring
-- Reaching for letters on two separate rows 
+- Reaching for letters on two separate rows "x q"
 ## Lateral Stretching
 - Middle column usage
 ## Rolls vs Alternation
 - Rolls refer to consecutive key stroke where the keys are in one direction and next to each other like "wer" in the power (on qwerty)
 - Alternation refers to changing hands for each letter
+	- "and" in qwerty
 ## Redirects
 - "Bad rolls"
 - Direction change mid-roll 
 # Layouts considered
-
-## Gallium
-- Gallium v2 or rowstag is designed to take rowstag into account with regards to said keys
-## Graphite
-- Quite similar to gallium with a few changes, namely less middle column usage but a worse left hand imo
+## Vowel Block 
+### Gallium
+- Gallium v2 or rowstag is designed to take rowstag into account with regards to said keys ![image-49.webp](/img/user/zawaruto-assets/attachments/image-49.webp)
+### Graphite
+- Quite similar to gallium with a few changes, namely less middle column usage but a worse left hand imo ![image-50.webp](/img/user/zawaruto-assets/attachments/image-50.webp)
+### Semimak
+- Make to speed typists there was a tournament aswell which contributed to the high amount of fast akl typists that use this layout ![image-52.webp](/img/user/zawaruto-assets/attachments/image-52.webp)
 ## Colemak-dh
-- most widely supported, basically a dh mod of base colemak to maek it significantly better
+- most widely supported, basically a dh mod of base colemak to reduce middle row usage ![image-53.webp](/img/user/zawaruto-assets/attachments/image-53.webp)
 
