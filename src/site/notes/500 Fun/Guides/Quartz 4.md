@@ -6,4 +6,4 @@
 - [Setup documentation](https://quartz.jzhao.xyz/hosting)
 - Had alot of issues with video 
 - [x] will make a list for reference later ✅ 2025-11-16
- - <iframe src="https://www.youtube.com/embed/zGFroBGud7w&t=106s" title="Video i followed" style="width:100%; aspect-ratio:16/9" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+ - <div class="youtube-embed"><iframe src="https://www.youtube.com/embed/zGFroBGud7w" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>

@@ -19,7 +19,7 @@ course: [[000 MOCS/Drawabox\|Drawabox]]
 	- For repeating patterns break down the pattern into strokes instead of doing it in one big motion
 	![zawaruto-assets/image-4.webp](/img/user/zawaruto-assets/image-4.webp)
 ## Ghosting
-<iframe src="https://www.youtube.com/embed/LkJG6pKTuRc" title="unc" style="width:100%; aspect-ratio:16/9" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
+<div class="youtube-embed"><iframe src="https://www.youtube.com/embed/LkJG6pKTuRc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div> 
 ## Ghosted Planes 
 you can just do this instead of the lines and ghosting for warmup
 ## Practice
