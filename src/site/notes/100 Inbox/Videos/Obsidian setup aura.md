@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/100-inbox/videos/obsidian-setup-aura/","title":"Obsidian setup 2026","created":"2026-05-12T23:27:17.820+05:00","updated":"2026-05-17T22:41:56.351+05:00","dg-note-properties":{"title":"Obsidian setup 2026","created":"2026-05-12","source":"https://www.youtube.com/watch?v=3Y6shfFtKtY","author":["[[The Vestibule]]"],"published":"2026-04-07","description":"Ewan shows off his obsidian setup ewan.my#obsidian #secondbrain #selfimprovement #siliconvalley #ai #gpt #claude #bci #nueroscience #peptides #software #programming #engineering #swe #agents #know","tags":null,"type":["video"],"related":null,"image":"https://img.youtube.com/vi/3Y6shfFtKtY/hqdefault.jpg","status":"open","watched":true,"processed":true}}
+{"dg-publish":true,"permalink":"/100-inbox/videos/obsidian-setup-aura/","created":"2026-05-12T23:27:17.820+05:00","updated":"2026-05-23T19:08:56.832+05:00","dg-note-properties":{"created":"2026-05-12","source":"https://www.youtube.com/watch?v=3Y6shfFtKtY","author":["[[The Vestibule]]"],"published":"2026-04-07","description":"Ewan shows off his obsidian setup ewan.my#obsidian #secondbrain #selfimprovement #siliconvalley #ai #gpt #claude #bci #nueroscience #peptides #software #programming #engineering #swe #agents #know","tags":null,"type":["video"],"related":null,"image":"https://img.youtube.com/vi/3Y6shfFtKtY/hqdefault.jpg","status":"open","watched":true,"processed":true}}
 ---
 
-![]( https://www.youtube.com/watch?v=3Y6shfFtKtY)
-
+<div class="youtube-embed"><iframe src="https://www.youtube.com/embed/3Y6shfFtKtY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+test
 ## Transcript
 **0:00** · I'm going to be already all done with it. What's good though is you can go here and it will I think it will automatically.
 **0:07** · But you really How does this There we go. So if you get to this page, you can use the Zotero connector.
