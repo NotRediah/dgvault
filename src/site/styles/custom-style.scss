@@ -407,14 +407,14 @@ body {
     /* ════════════════════════════════════════════════
        MINIMAL FILETREE
        ════════════════════════════════════════════════ */
-    --dg-filetree-width:      160px;
-    --dg-filetree-min-width:  160px;
-    --dg-filetree-gap:        24px;
+    --dg-filetree-width:      128px;
+    --dg-filetree-min-width:  128px;
+    --dg-filetree-gap:        20px;
     --dg-filetree-padding:    16px 12px;
     --dg-filetree-title-size: 0px;
-    --dg-notelink-size:       0.72rem;
+    --dg-notelink-size:       0.65rem;
     --dg-notelink-padding:    3px 6px 3px 8px;
-    --dg-folder-icon-size:    11px;
+    --dg-folder-icon-size:    9px;
     --dg-filelist-margin:     6px;
     --dg-inner-folder-margin: 8px;
 }
@@ -427,8 +427,8 @@ body {
 }
 
 .filetree-sidebar {
-    width: 160px !important;
-    padding: 16px 12px !important;
+    width: 128px !important;
+    padding: 12px 8px !important;
 
     /* Hide the big site title and logo */
     h1 { display: none !important; }
@@ -457,7 +457,7 @@ body {
 
 /* Folder names — dim, uppercase, tiny */
 .foldername-wrapper {
-    font-size: 0.68rem !important;
+    font-size: 0.6rem !important;
     letter-spacing: 0.08em;
     text-transform: uppercase;
     color: rgba(255, 255, 255, 0.25) !important;
@@ -474,7 +474,7 @@ body {
 
     a {
         color: rgba(255, 255, 255, 0.35) !important;
-        font-size: 0.72rem !important;
+        font-size: 0.65rem !important;
         white-space: nowrap;
         overflow: hidden;
         text-overflow: ellipsis;
@@ -507,9 +507,8 @@ body {
 /* Medium screens */
 @media (max-width: 1400px) and (min-width: 1001px) {
     .content {
-        margin-left: calc(160px + 24px) !important;
-        max-width: calc(100vw - 160px - 40px) !important;
+        margin-left: calc(128px + 20px) !important;
+        max-width: calc(100vw - 128px - 40px) !important;
     }
 }
 
-j
