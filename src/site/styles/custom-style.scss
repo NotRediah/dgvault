@@ -405,75 +405,111 @@ body {
 
 
     /* ════════════════════════════════════════════════
-       COLLAPSED FILETREE — hover to reveal
+       MINIMAL FILETREE
        ════════════════════════════════════════════════ */
-    --dg-filetree-width:     220px;
-    --dg-filetree-min-width: 3px;
-    --dg-filetree-gap:       32px;
+    --dg-filetree-width:      160px;
+    --dg-filetree-min-width:  160px;
+    --dg-filetree-gap:        24px;
+    --dg-filetree-padding:    16px 12px;
+    --dg-filetree-title-size: 0px;
+    --dg-notelink-size:       0.72rem;
+    --dg-notelink-padding:    3px 6px 3px 8px;
+    --dg-folder-icon-size:    11px;
+    --dg-filelist-margin:     6px;
+    --dg-inner-folder-margin: 8px;
 }
 
-/* ── Filetree collapse (outside body{} so selectors work) ── */
+/* ── Minimal filetree ── */
 
-/* The wrapper: collapses to a 3px strip */
 .filetree-wrapper {
-    width: 3px !important;
-    min-width: 3px !important;
-    transition: width 0.28s cubic-bezier(0.4, 0, 0.2, 1);
-    overflow: hidden;
-    background-color: rgba(255, 255, 255, 0.04) !important;
-
-    /* Hover zone — expand */
-    &:hover {
-        width: 220px !important;
-        background-color: #0a0a0a !important;
-        box-shadow: 4px 0 32px rgba(0, 0, 0, 0.8);
-    }
+    background-color: #000000 !important;
+    border-right: 1px solid rgba(255, 255, 255, 0.05);
 }
 
-/* The inner sidebar: always full width, just hidden by wrapper overflow */
 .filetree-sidebar {
-    width: 220px !important;
-    min-width: 220px !important;
-    opacity: 0;
-    transition: opacity 0.2s ease 0.05s;
-    pointer-events: none;
-}
+    width: 160px !important;
+    padding: 16px 12px !important;
 
-.filetree-wrapper:hover .filetree-sidebar {
-    opacity: 1;
-    pointer-events: auto;
-}
+    /* Hide the big site title and logo */
+    h1 { display: none !important; }
+    .site-logo { display: none !important; }
 
-/* Nudge content left since filetree is now collapsed */
-@media (min-width: 1001px) {
-    .content {
-        margin-left: 48px !important;
+    /* Search button — icon only, no label */
+    .search-button {
+        margin: 0 0 12px 0 !important;
+        width: 100% !important;
+        opacity: 0.4;
+        transition: opacity 0.15s;
+
+        &:hover { opacity: 1; }
+
+        .search-text { display: none !important; }
+    }
+
+    /* Folder tree */
+    > .folder {
+        overflow-y: auto;
+        overflow-x: hidden;
+        scrollbar-width: none;
+        &::-webkit-scrollbar { display: none; }
     }
 }
 
-/* On medium screens override too */
+/* Folder names — dim, uppercase, tiny */
+.foldername-wrapper {
+    font-size: 0.68rem !important;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: rgba(255, 255, 255, 0.25) !important;
+    margin: 6px 0 2px !important;
+
+    &:hover { color: rgba(255, 255, 255, 0.6) !important; }
+
+    i, svg { opacity: 0.4; }
+}
+
+/* Note links */
+.notelink {
+    border-radius: 3px;
+
+    a {
+        color: rgba(255, 255, 255, 0.35) !important;
+        font-size: 0.72rem !important;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        display: block;
+        text-decoration: none !important;
+        border: none !important;
+        transition: color 0.15s;
+
+        &::after { display: none !important; }
+        &:hover { color: rgba(255, 255, 255, 0.85) !important; }
+    }
+
+    &:hover { background: rgba(255, 255, 255, 0.04) !important; }
+
+    svg { display: none; }
+}
+
+/* Active note — white */
+.notelink.active-note {
+    a { color: rgba(255, 255, 255, 0.9) !important; }
+    border-left-color: rgba(255, 255, 255, 0.4) !important;
+}
+
+/* Depth lines */
+.filelist {
+    border-left: 1px solid rgba(255, 255, 255, 0.05) !important;
+    margin-left: 6px !important;
+}
+
+/* Medium screens */
 @media (max-width: 1400px) and (min-width: 1001px) {
     .content {
-        margin-left: 48px !important;
-        max-width: calc(100vw - 80px) !important;
+        margin-left: calc(160px + 24px) !important;
+        max-width: calc(100vw - 160px - 40px) !important;
     }
 }
 
-/* Thin strip glow — subtle indicator the sidebar is there */
-.filetree-wrapper::after {
-    content: '';
-    position: absolute;
-    top: 0;
-    right: 0;
-    width: 1px;
-    height: 100%;
-    background: linear-gradient(
-        to bottom,
-        transparent 0%,
-        rgba(255, 255, 255, 0.08) 30%,
-        rgba(255, 255, 255, 0.08) 70%,
-        transparent 100%
-    );
-    pointer-events: none;
-}
-
+j
