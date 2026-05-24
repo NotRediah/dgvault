@@ -1,13 +1,59 @@
 body {
     /***
-      ADD YOUR CUSTOM STYLING HERE. (INSIDE THE body {...} section.)
-      IT WILL TAKE PRECEDENCE OVER THE STYLING IN THE STYLE.CSS FILE.
-   ***/
-    //  background-color: white;
-    //  .content {
-    //   font-size: 14px;
-    //  }
-    //  h1 {
-    //   color: black;
-    //  }
+      MONOCHROME AMOLED THEME
+    ***/
+
+    /* Core colors */
+    --background-primary:         #000000;
+    --background-secondary:       #0a0a0a;
+    --text-normal:                #e8e8e8;
+    --text-muted:                 #555555;
+    --text-faint:                 #222222;
+    --text-accent:                #ffffff;
+    --background-modifier-border: rgba(255, 255, 255, 0.06);
+    --background-modifier-hover:  rgba(255, 255, 255, 0.04);
+
+    background: #000000;
+    color: #e8e8e8;
+
+    /* Headings */
+    h1 { color: #ffffff; }
+    h2 { color: #e0e0e0; }
+    h3 { color: #b0b0b0; }
+    h4 { color: #888888; }
+    h5, h6 { color: #555555; }
+
+    /* Links */
+    a { color: #cccccc; }
+    a:hover { color: #ffffff; }
+
+    /* Blockquotes */
+    blockquote {
+        background: rgba(255, 255, 255, 0.03);
+        border-left: 2px solid rgba(255, 255, 255, 0.3);
+        color: #888888;
+    }
+
+    /* Inline code */
+    p > code {
+        color: #e0e0e0;
+        background: rgba(255, 255, 255, 0.07);
+    }
+
+    /* Callouts — strip color */
+    .callout {
+        background: rgba(255, 255, 255, 0.025) !important;
+        border: 1px solid rgba(255, 255, 255, 0.07) !important;
+        border-left: 2px solid rgba(255, 255, 255, 0.25) !important;
+        .callout-title { color: #cccccc !important; }
+        .callout-content { color: #888888; }
+        .callout-icon svg { color: #555555 !important; }
+    }
+
+    /* Selection */
+    ::selection {
+        background: #ffffff;
+        color: #000000;
+    }
 }
+
