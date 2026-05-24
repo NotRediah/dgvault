@@ -1,5 +1,5 @@
 ---
-{"class":["project"],"created_on":"24-05-26 @ 15:49","tags":["guide"],"source":null,"related":"[[kanata]]","description":null,"aliases":["kanata-config","joint-kanata-config"],"status":"open","dg-publish":true,"permalink":"/100-inbox/kanata-config/","dgPassFrontmatter":true,"created":"2026-05-24T15:49:53.836+05:00","updated":"2026-05-24T17:02:54.811+05:00","dg-note-properties":{"class":["project"],"created_on":"24-05-26 @ 15:49","tags":["guide"],"source":null,"related":"[[kanata]]","description":null,"aliases":["kanata-config","joint-kanata-config"],"status":"open"}}
+{"class":["project"],"created_on":"24-05-26 @ 15:49","tags":["guide"],"source":null,"related":"[[kanata]]","description":null,"aliases":["kanata-config","joint-kanata-config"],"status":"open","dg-publish":true,"permalink":"/100-inbox/kanata-config/","dgPassFrontmatter":true,"created":"2026-05-24T15:49:53.836+05:00","updated":"2026-05-25T00:10:49.665+05:00","dg-note-properties":{"class":["project"],"created_on":"24-05-26 @ 15:49","tags":["guide"],"source":null,"related":"[[kanata]]","description":null,"aliases":["kanata-config","joint-kanata-config"],"status":"open"}}
 ---
 
 # Linux
@@ -74,7 +74,6 @@
 
 (deflayer shifted-base
   _    _    _    _    _    _    _    _    _    _    _    _
-  S-q  S-w  S-e  S-r  S-t       S-y  S-u  S-i  S-o  S-p
   S-a  S-s  S-d  S-f  S-g       S-h  S-j  S-k  S-l  S-;
   S-z  S-x  S-c  S-v  S-b       S-n  S-m  S-,  S-.  S-/
   _    _    _    _    _          _
