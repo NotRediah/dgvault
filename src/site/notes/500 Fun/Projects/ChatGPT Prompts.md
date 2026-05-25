@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["notion"],"| Explain the principles behind selecting a suitable kidney for transplantation, emphasizing the importance of ABO blood group compatibility and HLA matching.\n{{c1":"Answer: Principles of Kidney Selection for Transplantation","permalink":"/500-fun/projects/chat-gpt-prompts/","dgPassFrontmatter":true,"created":"2026-04-23T23:37:25.633+05:00","updated":"2026-04-23T23:37:25.633+05:00","dg-note-properties":{"tags":["notion"],"| Explain the principles behind selecting a suitable kidney for transplantation, emphasizing the importance of ABO blood group compatibility and HLA matching.\n{{c1":"Answer: Principles of Kidney Selection for Transplantation"}}
+{"dg-publish":true,"tags":["notion"],"permalink":"/500-fun/projects/chat-gpt-prompts/","dgPassFrontmatter":true,"created":"2026-04-23T23:37:25.633+05:00","updated":"2026-04-23T23:37:25.633+05:00","dg-note-properties":{"tags":["notion"]}}
 ---
 
 
