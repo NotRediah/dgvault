@@ -1,5 +1,5 @@
 ---
-{"excalidraw-plugin":"parsed","tags":null,"excalidraw-open-md":true,"image":"Finals_marks requirement.svg","dg-publish":true,"permalink":"/100-inbox/finals-marks-requirement/","dgPassFrontmatter":true,"created":"2026-05-24T13:16:12.011+05:00","updated":"2026-05-25T12:02:17.900+05:00","dg-note-properties":{"excalidraw-plugin":"parsed","tags":null,"excalidraw-open-md":true,"image":"Finals_marks requirement.svg"}}
+{"excalidraw-plugin":"parsed","tags":null,"excalidraw-open-md":true,"image":"Finals_marks requirement.svg","dg-publish":true,"permalink":"/100-inbox/finals-marks-requirement/","dgPassFrontmatter":true,"created":"2026-05-24T13:16:12.011+05:00","updated":"2026-05-25T12:08:14.748+05:00","dg-note-properties":{"excalidraw-plugin":"parsed","tags":null,"excalidraw-open-md":true,"image":"Finals_marks requirement.svg"}}
 ---
 
 
@@ -13,6 +13,7 @@ precalc 11.25 pass 20th june
 
 
 
+{ #mermaid-finals-marks-requirement-1}
 
 ```mermaid
 	flowchart TD
@@ -22,8 +23,7 @@ precalc 11.25 pass 20th june
 	subgraph test
 		a[this is a test] --> ICt	
 		end
-```{ #mermaid-finals-marks-requirement-1}
-
+```
 ```mermaid-maker
 %%editable%%
 graph LR
