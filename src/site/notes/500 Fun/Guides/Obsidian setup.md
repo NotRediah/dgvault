@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["guide"],"publish":true,"permalink":"/500-fun/guides/obsidian-setup/","dgPassFrontmatter":true,"created":"2026-04-23T23:37:25.631+05:00","updated":"2026-05-23T17:11:21.362+05:00","dg-note-properties":{"tags":["guide"],"publish":true}}
+{"dg-publish":true,"tags":["guide"],"publish":true,"permalink":"/500-fun/guides/obsidian-setup/","dgPassFrontmatter":true,"created":"2026-04-23T23:37:25.631+05:00","updated":"2026-05-25T23:51:33.293+05:00","dg-note-properties":{"tags":["guide"],"publish":true}}
 ---
 
 - [x] fix excalidraw settings for the svg sync ✅ 2026-05-20
@@ -10,7 +10,8 @@
 - [ ] Big excalidraw boards for everything related to a subject and find a way to insert notes in there aswell (go through the excalidraw vid)
 - [ ] Task setup make it better(kinda passable rn) on the phone aswell
 - [ ] Add more views to all my bases
-
+- [ ] add obsidian spaced repitition to the workflow
+- [ ] tempalter plugin setup for daily notes
 - [ ] setup shortcuts unc (dg tasks etc)
 - [x] fix quick add to add to top of file ✅ 2025-11-25
 

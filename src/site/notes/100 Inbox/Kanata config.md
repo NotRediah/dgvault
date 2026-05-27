@@ -1,8 +1,8 @@
 ---
-{"class":["project"],"created_on":"24-05-26 @ 15:49","tags":["guide"],"source":null,"related":"[[kanata]]","description":null,"aliases":["kanata-config","joint-kanata-config"],"status":"open","dg-publish":true,"permalink":"/100-inbox/kanata-config/","dgPassFrontmatter":true,"created":"2026-05-24T15:49:53.836+05:00","updated":"2026-05-25T00:10:49.665+05:00","dg-note-properties":{"class":["project"],"created_on":"24-05-26 @ 15:49","tags":["guide"],"source":null,"related":"[[kanata]]","description":null,"aliases":["kanata-config","joint-kanata-config"],"status":"open"}}
+{"class":["project"],"created_on":"24-05-26 @ 15:49","tags":["guide"],"source":"https://chatgpt.com/c/690c2f9b-c910-8322-8f05-6ef1f87cdb3b","related":"[[kanata]]","description":null,"aliases":["kanata-config","joint-kanata-config"],"status":"open","dg-publish":true,"permalink":"/100-inbox/kanata-config/","dgPassFrontmatter":true,"created":"2026-05-24T15:49:53.836+05:00","updated":"2026-05-25T23:41:26.453+05:00","dg-note-properties":{"class":["project"],"created_on":"24-05-26 @ 15:49","tags":["guide"],"source":"https://chatgpt.com/c/690c2f9b-c910-8322-8f05-6ef1f87cdb3b","related":"[[kanata]]","description":null,"aliases":["kanata-config","joint-kanata-config"],"status":"open"}}
 ---
 
-# Linux
+# Linux##
 ```
 (defcfg
   process-unmapped-keys yes
