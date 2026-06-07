@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["guide"],"publish":true,"permalink":"/500-fun/guides/obsidian-setup/","dgPassFrontmatter":true,"created":"2026-04-23T23:37:25.631+05:00","updated":"2026-05-25T23:51:33.293+05:00","dg-note-properties":{"tags":["guide"],"publish":true}}
+{"dg-publish":true,"tags":["guide"],"publish":true,"permalink":"/500-fun/guides/obsidian-setup/","dgPassFrontmatter":true,"created":"2026-05-27T22:15:05.940+05:00","updated":"2026-06-02T12:21:50.902+05:00","dg-note-properties":{"tags":["guide"],"publish":true}}
 ---
 
 - [x] fix excalidraw settings for the svg sync ✅ 2026-05-20
@@ -14,7 +14,7 @@
 - [ ] tempalter plugin setup for daily notes
 - [ ] setup shortcuts unc (dg tasks etc)
 - [x] fix quick add to add to top of file ✅ 2025-11-25
-
+- [ ] add a vimium shortcut to be able to goon to femboys
 > ***Fair warning this shit is fucky***
 >  Also quick guide to [[500 Fun/Guides/Markdown\|Markdown]]
 

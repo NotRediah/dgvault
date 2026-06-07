@@ -1,5 +1,5 @@
 ---
-{"class":["project"],"created_on":"23-05-26 @ 22:54","tags":["project"],"source":null,"related":null,"description":null,"aliases":["AKL","akl"],"status":"open","dg-publish":true,"permalink":"/100-inbox/alternative-keyboard-layout/","dgPassFrontmatter":true,"created":"2026-05-23T22:40:20.177+05:00","updated":"2026-05-24T17:03:44.942+05:00","dg-note-properties":{"class":["project"],"created_on":"23-05-26 @ 22:54","tags":["project"],"source":null,"related":null,"description":null,"aliases":["AKL","akl"],"status":"open"}}
+{"class":["project"],"created_on":"23-05-26 @ 22:54","tags":["project"],"source":null,"related":null,"description":null,"aliases":["AKL","akl"],"status":"open","dg-publish":true,"permalink":"/100-inbox/alternative-keyboard-layout/","dgPassFrontmatter":true,"created":"2026-05-27T22:15:05.871+05:00","updated":"2026-05-24T17:03:44.942+05:00","dg-note-properties":{"class":["project"],"created_on":"23-05-26 @ 22:54","tags":["project"],"source":null,"related":null,"description":null,"aliases":["AKL","akl"],"status":"open"}}
 ---
 
 

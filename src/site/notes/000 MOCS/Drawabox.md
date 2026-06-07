@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/000-mocs/drawabox/","dgPassFrontmatter":true,"created":"2026-04-23T23:37:25.626+05:00","updated":"2026-04-23T23:37:25.626+05:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/000-mocs/drawabox/","dgPassFrontmatter":true,"created":"2026-05-27T22:15:05.816+05:00","updated":"2026-04-23T23:37:25.626+05:00","dg-note-properties":{}}
 ---
 
 > Gonna take "> 5 months"
@@ -9,8 +9,8 @@
 > This isn't meant to be the only material you're still gonna have to draw unc
 
 # Lessons
-[[300 Consumption/Courses/Drawabox/Lesson 0\|Lesson 0]]
-[[300 Consumption/Courses/Drawabox/Lesson 1\|Lesson 1]]
+[[400 Notes/Courses/Drawabox/Lesson 0\|Lesson 0]]
+[[400 Notes/Courses/Drawabox/Lesson 1\|Lesson 1]]
 # Goal
 - improving spatial reasoning 
 	thinking in 3 dimensions unc 

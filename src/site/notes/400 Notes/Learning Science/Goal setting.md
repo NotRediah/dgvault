@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"tags":["icanstudy"],"permalink":"/400-notes/learning-science/goal-setting/","dgPassFrontmatter":true,"created":"2026-04-23T23:37:25.629+05:00","updated":"2026-04-23T23:37:25.629+05:00","dg-note-properties":{"tags":["icanstudy"]}}
+{"dg-publish":true,"tags":["icanstudy"],"permalink":"/400-notes/learning-science/goal-setting/","dgPassFrontmatter":true,"created":"2026-05-27T22:41:04.765+05:00","updated":"2026-05-27T22:40:49.814+05:00","dg-note-properties":{"tags":["icanstudy"]}}
 ---
 
 moc: [[000 MOCS/ICS\|ICS]]
 
 ---
-- [ ] continue at protecting time lec folder 4 #icanstudy
+- [x] continue at protecting time lec folder 4 #icanstudy ✅ 2026-05-27
 - 6 to 12 months goal 
 	- really long term planning not good idea, it is gonna alter or change as time goes on ( a general vision is better suited for this)
 - Intention setting is not the same as goal setting

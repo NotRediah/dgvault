@@ -1,11 +1,11 @@
 ---
-{"excalidraw-plugin":"parsed","tags":["excalidraw"],"excalidraw-open-md":true,"image":"Finals_marks requirement.svg","dg-publish":true,"permalink":"/100-inbox/finals-marks-requirement/","dgPassFrontmatter":true,"created":"2026-05-24T13:16:12.011+05:00","updated":"2026-05-26T14:11:02.052+05:00","dg-note-properties":{"excalidraw-plugin":"parsed","tags":["excalidraw"],"excalidraw-open-md":true,"image":"Finals_marks requirement.svg"}}
+{"excalidraw-plugin":"parsed","tags":["excalidraw"],"excalidraw-open-md":true,"image":"Finals_marks requirement.svg","dg-publish":true,"permalink":"/100-inbox/finals-marks-requirement/","dgPassFrontmatter":true,"created":"2026-05-27T22:15:05.858+05:00","updated":"2026-05-28T22:49:19.687+05:00","dg-note-properties":{"excalidraw-plugin":"parsed","tags":["excalidraw"],"excalidraw-open-md":true,"image":"Finals_marks requirement.svg"}}
 ---
 
 
 Civics 44.125 so basically 45 9th june 
 Islamic Studies 40 for 4.0 4th june
-IR 45 if all goes as it is currently] 5th june
+IR 42.5 if all goes as it is currently] 5th june
 ICT 43.25 for 3.7 16th june
 PF 44.3~25 3.33 and 39 for 3.0 22nd june
 Func English 4.0 18th june

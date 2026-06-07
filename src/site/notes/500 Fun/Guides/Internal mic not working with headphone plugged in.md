@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/500-fun/guides/internal-mic-not-working-with-headphone-plugged-in/","dgPassFrontmatter":true,"created":"2026-05-10T18:51:09.052+05:00","updated":"2026-05-26T23:57:05.987+05:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/500-fun/guides/internal-mic-not-working-with-headphone-plugged-in/","dgPassFrontmatter":true,"created":"2026-05-27T22:40:54.727+05:00","updated":"2026-05-27T22:40:45.838+05:00","dg-note-properties":{}}
 ---
 
-- [ ] Sent email to takahashi with haiderwantstokhs@gmail.com 
-- [ ] reddit posts on arch linux and linux hardware
+- [x] Sent email to takahashi with haiderwantstokhs@gmail.com ✅ 2026-05-27
+- [x] reddit posts on arch linux and linux hardware ✅ 2026-05-27
 # Claude chat summary
 **The Problem** Your HP EliteBook 845 G10 has an internal microphone that doesn't work on Linux (Arch). The internal mic works fine on Windows. When headphones are plugged in, both the "Internal Microphone" and "Microphone" ports in pavucontrol actually capture from the same source — the headphone jack mic (pin 0x19). The real internal mic (pin 0x12, physically soldered inside the laptop) captures nothing.
 

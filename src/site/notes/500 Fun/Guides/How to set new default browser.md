@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["linux","guide"],"permalink":"/500-fun/guides/how-to-set-new-default-browser/","dgPassFrontmatter":true,"created":"2026-04-23T23:37:25.631+05:00","updated":"2026-04-23T23:37:25.631+05:00","dg-note-properties":{"tags":["linux","guide"]}}
+{"dg-publish":true,"tags":["linux","guide"],"permalink":"/500-fun/guides/how-to-set-new-default-browser/","dgPassFrontmatter":true,"created":"2026-05-27T22:15:05.931+05:00","updated":"2026-04-23T23:37:25.631+05:00","dg-note-properties":{"tags":["linux","guide"]}}
 ---
 
 ```

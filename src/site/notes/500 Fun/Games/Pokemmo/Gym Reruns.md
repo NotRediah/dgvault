@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["guide"],"publish":true,"permalink":"/500-fun/games/pokemmo/gym-reruns/","dgPassFrontmatter":true,"created":"2026-04-23T23:37:25.630+05:00","updated":"2026-04-23T23:37:25.630+05:00","dg-note-properties":{"tags":["guide"],"publish":true}}
+{"dg-publish":true,"tags":["guide"],"publish":true,"permalink":"/500-fun/games/pokemmo/gym-reruns/","dgPassFrontmatter":true,"created":"2026-05-27T22:15:05.915+05:00","updated":"2026-04-23T23:37:25.630+05:00","dg-note-properties":{"tags":["guide"],"publish":true}}
 ---
 
 # _**Hoenn**_

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["guide"],"permalink":"/500-fun/guides/markdown/","dgPassFrontmatter":true,"created":"2026-04-23T23:37:25.631+05:00","updated":"2026-04-23T23:37:25.631+05:00","dg-note-properties":{"tags":["guide"]}}
+{"dg-publish":true,"tags":["guide"],"permalink":"/500-fun/guides/markdown/","dgPassFrontmatter":true,"created":"2026-05-27T22:15:05.936+05:00","updated":"2026-04-23T23:37:25.631+05:00","dg-note-properties":{"tags":["guide"]}}
 ---
 
 othe
