@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/000-mocs/drawabox/","dgPassFrontmatter":true,"created":"2026-05-27T22:15:05.816+05:00","updated":"2026-04-23T23:37:25.626+05:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/000-mocs/drawabox/","dgPassFrontmatter":true,"created":"2026-05-27T22:15:05.816+05:00","updated":"2026-07-05T13:55:03.067+05:00","dg-note-properties":{}}
 ---
 
 > Gonna take "> 5 months"
@@ -27,4 +27,4 @@
 - Color Theory 
 - Gesture
 - Anatomy
-- Style
+- Style 

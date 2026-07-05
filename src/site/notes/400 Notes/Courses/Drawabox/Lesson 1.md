@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/400-notes/courses/drawabox/lesson-1/","dgPassFrontmatter":true,"created":"2026-05-27T22:41:04.763+05:00","updated":"2026-05-27T22:40:50.530+05:00","dg-note-properties":{}}
+{"id":"Lesson 1","aliases":[],"tags":[],"dg-publish":true,"permalink":"/400-notes/courses/drawabox/lesson-1/","dgPassFrontmatter":true,"created":"2026-07-05T17:32:01.986+05:00","updated":"2026-07-05T17:32:01.986+05:00","dg-note-properties":{"id":"Lesson 1","aliases":[],"tags":[]}}
 ---
 
-course: [[000 MOCS/Drawabox\|Drawabox]]
+course: [[000 MOCS/Applications of Information and Communication Technologies\|Applications of Information and Communication Technologies]] 
 >***Focused on Mechanics***
 # Lines     
 - Draw from shoulder not elbow
