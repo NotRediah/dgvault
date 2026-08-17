@@ -1,5 +1,5 @@
 ---
-{"excalidraw-plugin":"parsed","tags":["excalidraw"],"excalidraw-open-md":true,"dg-publish":true,"image":"IR Presentation 12-5-26.svg","permalink":"/uni/hum-ir/ir-presentation-12-5-26/","dgPassFrontmatter":true,"created":"2026-05-27T22:15:06.034+05:00","updated":"2026-05-20T12:13:53.646+05:00","dg-note-properties":{"excalidraw-plugin":"parsed","tags":["excalidraw"],"excalidraw-open-md":true,"image":"IR Presentation 12-5-26.svg"}}
+{"excalidraw-plugin":"parsed","tags":["excalidraw"],"excalidraw-open-md":true,"dg-publish":true,"image":"IR Presentation 12-5-26.svg","permalink":"/uni/hum-ir/ir-presentation-12-5-26/","dgPassFrontmatter":true,"created":"2026-07-26T08:39:09.517+05:00","updated":"2026-05-20T12:13:53.646+05:00","dg-note-properties":{"excalidraw-plugin":"parsed","tags":["excalidraw"],"excalidraw-open-md":true,"image":"_Uni/HUM-IR/IR presentation 12-5-26.svg"}}
 ---
 
 Presentation was on cognitive psychological theory 

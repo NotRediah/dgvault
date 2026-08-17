@@ -1,5 +1,5 @@
 ---
-{"excalidraw-plugin":"parsed","tags":["excalidraw"],"excalidraw-open-md":true,"image":"Finals_marks requirement.svg","dg-publish":true,"permalink":"/100-inbox/finals-marks-requirement/","dgPassFrontmatter":true,"created":"2026-05-27T22:15:05.858+05:00","updated":"2026-05-28T22:49:19.687+05:00","dg-note-properties":{"excalidraw-plugin":"parsed","tags":["excalidraw"],"excalidraw-open-md":true,"image":"Finals_marks requirement.svg"}}
+{"excalidraw-plugin":"parsed","tags":["excalidraw"],"excalidraw-open-md":true,"image":"Finals_marks requirement.svg","dg-publish":true,"permalink":"/100-inbox/finals-marks-requirement/","dgPassFrontmatter":true,"created":"2026-07-26T08:39:06.872+05:00","updated":"2026-05-28T22:49:19.687+05:00","dg-note-properties":{"excalidraw-plugin":"parsed","tags":["excalidraw"],"excalidraw-open-md":true,"image":"100 Inbox/Finals_marks requirement.svg"}}
 ---
 
 

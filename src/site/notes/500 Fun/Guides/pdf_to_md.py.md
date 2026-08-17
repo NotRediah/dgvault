@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["guide"],"source":"https://github.com/M1ck4/pdf_to_md","permalink":"/500-fun/guides/pdf-to-md-py/","dgPassFrontmatter":true,"created":"2026-05-27T22:15:05.959+05:00","updated":"2026-04-23T23:37:25.632+05:00","dg-note-properties":{"tags":["guide"],"source":"https://github.com/M1ck4/pdf_to_md"}}
+{"dg-publish":true,"tags":["guide"],"source":"https://github.com/M1ck4/pdf_to_md","permalink":"/500-fun/guides/pdf-to-md-py/","dgPassFrontmatter":true,"created":"2026-07-26T08:39:07.479+05:00","updated":"2026-04-23T23:37:25.632+05:00","dg-note-properties":{"tags":["guide"],"source":"https://github.com/M1ck4/pdf_to_md"}}
 ---
 
 - [x] make a script that does it for you ✅ 2025-11-16

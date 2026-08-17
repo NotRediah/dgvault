@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["notion"],"permalink":"/500-fun/projects/chat-gpt-prompts/","dgPassFrontmatter":true,"created":"2026-05-27T22:15:05.972+05:00","updated":"2026-04-23T23:37:25.633+05:00","dg-note-properties":{"tags":["notion"]}}
+{"dg-publish":true,"tags":["notion"],"permalink":"/500-fun/projects/chat-gpt-prompts/","dgPassFrontmatter":true,"created":"2026-07-26T08:39:07.593+05:00","updated":"2026-04-23T23:37:25.633+05:00","dg-note-properties":{"tags":["notion"]}}
 ---
 
 

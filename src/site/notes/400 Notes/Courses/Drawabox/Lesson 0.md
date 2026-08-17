@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/400-notes/courses/drawabox/lesson-0/","dgPassFrontmatter":true,"created":"2026-05-27T22:15:05.883+05:00","updated":"2026-05-12T21:40:13.539+05:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/400-notes/courses/drawabox/lesson-0/","dgPassFrontmatter":true,"created":"2026-07-26T08:39:07.223+05:00","updated":"2026-05-12T21:40:13.539+05:00","dg-note-properties":{}}
 ---
 
 course: [[000 MOCS/Drawabox\|Drawabox]]

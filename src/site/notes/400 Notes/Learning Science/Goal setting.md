@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["icanstudy"],"permalink":"/400-notes/learning-science/goal-setting/","dgPassFrontmatter":true,"created":"2026-05-27T22:41:04.765+05:00","updated":"2026-05-27T22:40:49.814+05:00","dg-note-properties":{"tags":["icanstudy"]}}
+{"dg-publish":true,"tags":["icanstudy"],"permalink":"/400-notes/learning-science/goal-setting/","dgPassFrontmatter":true,"created":"2026-07-26T08:39:07.252+05:00","updated":"2026-05-27T22:40:49.814+05:00","dg-note-properties":{"tags":["icanstudy"]}}
 ---
 
 moc: [[000 MOCS/ICS\|ICS]]

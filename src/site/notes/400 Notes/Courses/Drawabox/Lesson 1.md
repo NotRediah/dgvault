@@ -1,5 +1,5 @@
 ---
-{"id":"Lesson 1","aliases":[],"tags":[],"dg-publish":true,"permalink":"/400-notes/courses/drawabox/lesson-1/","dgPassFrontmatter":true,"created":"2026-07-05T17:32:01.986+05:00","updated":"2026-07-05T17:32:01.986+05:00","dg-note-properties":{"id":"Lesson 1","aliases":[],"tags":[]}}
+{"id":"Lesson 1","aliases":[],"tags":[],"dg-publish":true,"permalink":"/400-notes/courses/drawabox/lesson-1/","dgPassFrontmatter":true,"created":"2026-07-26T08:39:07.230+05:00","updated":"2026-07-05T17:32:01.986+05:00","dg-note-properties":{"id":"Lesson 1","aliases":[],"tags":[]}}
 ---
 
 course: [[000 MOCS/Applications of Information and Communication Technologies\|Applications of Information and Communication Technologies]] 

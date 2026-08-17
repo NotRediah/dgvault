@@ -1,5 +1,5 @@
 ---
-{"excalidraw-plugin":"parsed","tags":["excalidraw"],"excalidraw-open-md":true,"image":"Civics and Community Engagement.svg","dg-publish":true,"permalink":"/uni/hum-civics/lec-11-social-institutions/","dgPassFrontmatter":true,"created":"2026-05-27T22:15:05.876+05:00","updated":"2026-06-08T20:45:51.941+05:00","dg-note-properties":{"excalidraw-plugin":"parsed","tags":["excalidraw"],"excalidraw-open-md":true,"image":"Civics and Community Engagement.svg"}}
+{"excalidraw-plugin":"parsed","tags":["excalidraw"],"excalidraw-open-md":true,"image":"Civics and Community Engagement.svg","dg-publish":true,"permalink":"/uni/hum-civics/lec-11-social-institutions/","dgPassFrontmatter":true,"created":"2026-07-26T08:39:08.950+05:00","updated":"2026-06-08T20:45:51.941+05:00","dg-note-properties":{"excalidraw-plugin":"parsed","tags":["excalidraw"],"excalidraw-open-md":true,"image":"Civics and Community Engagement.svg"}}
 ---
 
 ## References

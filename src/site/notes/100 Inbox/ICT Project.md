@@ -1,5 +1,5 @@
 ---
-{"excalidraw-plugin":"parsed","tags":["excalidraw"],"excalidraw-open-md":true,"image":"ICT Project.svg","dg-publish":true,"permalink":"/100-inbox/ict-project/","dgPassFrontmatter":true,"created":"2026-05-27T22:15:05.870+05:00","updated":"2026-06-01T17:25:29.935+05:00","dg-note-properties":{"excalidraw-plugin":"parsed","tags":["excalidraw"],"excalidraw-open-md":true,"image":"ICT Project.svg"}}
+{"excalidraw-plugin":"parsed","tags":["excalidraw"],"excalidraw-open-md":true,"image":"ICT Project.svg","dg-publish":true,"permalink":"/100-inbox/ict-project/","dgPassFrontmatter":true,"created":"2026-07-26T08:39:06.916+05:00","updated":"2026-06-01T17:25:29.935+05:00","dg-note-properties":{"excalidraw-plugin":"parsed","tags":["excalidraw"],"excalidraw-open-md":true,"image":"100 Inbox/ICT Project.svg"}}
 ---
 
 

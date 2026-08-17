@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/500-fun/guides/internal-mic-not-working-with-headphone-plugged-in/","dgPassFrontmatter":true,"created":"2026-05-27T22:40:54.727+05:00","updated":"2026-05-27T22:40:45.838+05:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/500-fun/guides/internal-mic-not-working-with-headphone-plugged-in/","dgPassFrontmatter":true,"created":"2026-07-26T08:39:07.427+05:00","updated":"2026-05-27T22:40:45.838+05:00","dg-note-properties":{}}
 ---
 
 - [x] Sent email to takahashi with haiderwantstokhs@gmail.com ✅ 2026-05-27

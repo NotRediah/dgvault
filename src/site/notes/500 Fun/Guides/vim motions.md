@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["guide","linux"],"permalink":"/500-fun/guides/vim-motions/","dgPassFrontmatter":true,"created":"2026-05-27T22:15:05.965+05:00","updated":"2026-04-23T23:37:25.633+05:00","dg-note-properties":{"tags":["guide","linux"]}}
+{"id":"vim motions","aliases":[],"tags":["guide","linux"],"dg-publish":true,"permalink":"/500-fun/guides/vim-motions/","dgPassFrontmatter":true,"created":"2026-07-26T08:39:07.576+05:00","updated":"2026-07-08T15:21:11.920+05:00","dg-note-properties":{"id":"vim motions","aliases":[],"tags":["guide","linux"]}}
 ---
 
 
@@ -13,7 +13,7 @@ a get out of insert ahead of cursor
 A starts writing after the line instead of the a word
 w forward a word(start of word)
 b back a word
-e forward a word (end of word)
+> e forward a word (end of word)
 
 $ end of line ( normal mode ) 0 start of line (doesn't consider indents starts behind indents)(normal mode)
 ^ start of line (considers indents at start of indent)
@@ -32,10 +32,13 @@ p paste (like a insert after the caret)
 P pastes like i insert before caret
 y yanking(copying)
 
+> = fixes indention
 Ctrl r redo
 d i w deletes whole word
-. repeats last command
+> . repeats last command
 Ctrl r redo
+> ">" increase indentation and < decreases it 
+> :! runs command in terminal
 yy yanks line
 # Visual Mode
 v visual mode

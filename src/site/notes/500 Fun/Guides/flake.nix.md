@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["linux/config"],"permalink":"/500-fun/guides/flake-nix/","dgPassFrontmatter":true,"created":"2026-05-27T22:15:05.956+05:00","updated":"2026-04-23T23:37:25.632+05:00","dg-note-properties":{"tags":["linux/config"]}}
+{"dg-publish":true,"tags":["linux/config"],"permalink":"/500-fun/guides/flake-nix/","dgPassFrontmatter":true,"created":"2026-07-26T08:39:07.398+05:00","updated":"2026-04-23T23:37:25.632+05:00","dg-note-properties":{"tags":["linux/config"]}}
 ---
 
 

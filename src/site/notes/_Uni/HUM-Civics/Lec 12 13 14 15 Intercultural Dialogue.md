@@ -1,5 +1,5 @@
 ---
-{"excalidraw-plugin":"parsed","tags":["excalidraw"],"excalidraw-open-md":true,"image":"Intercultural Dialogue.svg","dg-publish":true,"permalink":"/uni/hum-civics/lec-12-13-14-15-intercultural-dialogue/","dgPassFrontmatter":true,"created":"2026-06-07T21:52:18.092+05:00","updated":"2026-06-08T20:52:32.818+05:00","dg-note-properties":{"excalidraw-plugin":"parsed","tags":["excalidraw"],"excalidraw-open-md":true,"image":"Intercultural Dialogue.svg"}}
+{"excalidraw-plugin":"parsed","tags":["excalidraw"],"excalidraw-open-md":true,"image":"Intercultural Dialogue.svg","dg-publish":true,"permalink":"/uni/hum-civics/lec-12-13-14-15-intercultural-dialogue/","dgPassFrontmatter":true,"created":"2026-07-26T08:39:08.986+05:00","updated":"2026-06-08T20:52:32.818+05:00","dg-note-properties":{"excalidraw-plugin":"parsed","tags":["excalidraw"],"excalidraw-open-md":true,"image":"Intercultural Dialogue.svg"}}
 ---
 
 
