@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/100-inbox/kaishi-mnemonics/","dgPassFrontmatter":true,"created":"2026-08-17T18:06:57.496+05:00","updated":"2026-08-17T18:08:12.673+05:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/100-inbox/kaishi-mnemonics/","dgPassFrontmatter":true,"created":"2026-08-17T18:06:57.496+05:00","updated":"2026-08-17T19:20:13.206+05:00","dg-note-properties":{}}
 ---
 
-# Kaishi 1.5k Mnemonics — Words 1–100
+# 1–100
 
 ---
 
@@ -1003,7 +1003,7 @@ Same kanji 高 — it literally looks like a tall tower with multiple levels (�
 
 **Kanji Mnemonic (Visual Shape of 前)**
 前 has 一 (one) + 月 (moon) + 刂 (knife). Think: "The moon (月) with a knife (刂) in FRONT (前) of it — the knife cuts BEFORE the moon rises!" 前 (mae) = front, before.
-# Kaishi 1.5k Mnemonics — Words 101–200
+# 101–200
 
 ---
 
@@ -2004,7 +2004,7 @@ In kanji: 怪 (忄heart + 匕 dagger + 厶 private + 土 ground). A HEART (忄) 
 
 **Kanji Mnemonic (Visual Shape of 暇)**
 暇 has 日 (sun) on the left and 叚 (temporary/false) on the right. "SUN (日) time that is TEMPORARY (仮) = FREE TIME before work starts!" 暇 (hima) = free, leisure.
-# Kaishi 1.5k Mnemonics — Words 201–300
+# 201–300
 
 ---
 
@@ -3005,7 +3005,7 @@ Same kanji 他, different reading. When meaning "OTHER people/things," read TA. 
 
 **Kanji/Shape Mnemonic (それで)**
 それ (that) + で (by means of/at). "THAT (それ) + BY MEANS OF (で) = THEN, SO (consequence)!" それで = and so, then.
-# Kaishi 1.5k Mnemonics — Words 301–400
+# 301–400
 
 ---
 
@@ -3409,7 +3409,7 @@ Same kanji 他, different reading. When meaning "OTHER people/things," read TA. 
 **Pronunciation:** "HA-ZU-KA-SHII — HASU (lotus) COOL SHE! Having a lotus on your face is EMBARRASSING!"
 **Kanji:** 耳 (ear) + 心 (heart). "EARS and HEART blushing = EMBARRASING!"
 
-# Kaishi 1.5k Mnemonics — Words 401–500
+# 401–500
 
 ---
 
@@ -3813,7 +3813,7 @@ Same kanji 他, different reading. When meaning "OTHER people/things," read TA. 
 **Pronunciation:** "TO-DO-KU — TOE DOOR COOL! The message REACHES the cool door!"
 **Kanji:** 届 has 戸 (door) + 由 (reason). "A REASON reaching your DOOR = RECEIVED!"
 
-# Kaishi 1.5k Mnemonics — Words 501–600
+# 501–600
 
 ---
 
@@ -4217,7 +4217,7 @@ Same kanji 他, different reading. When meaning "OTHER people/things," read TA. 
 **Pronunciation:** "HI-SSI — HE SIT! He sits DESPERATELY!"
 **Kanji:** 必 = certain/death. 死 = die. "CERTAIN DEATH = DESPERATE!"
 
-# Kaishi 1.5k Mnemonics — Words 601–700
+# 601–700
 
 ---
 
@@ -4621,7 +4621,7 @@ Same kanji 他, different reading. When meaning "OTHER people/things," read TA. 
 **Pronunciation:** "KA-NE — CAR KNEE! CAR KNEE = MONEY!"
 **Kanji:** 金 has 人 (person) on top and dots below = METALS = MONEY!
 
-# Kaishi 1.5k Mnemonics — Words 701–800
+# 701–800
 
 ---
 
@@ -5025,7 +5025,7 @@ Same kanji 他, different reading. When meaning "OTHER people/things," read TA. 
 **pronunciation:** "SHI-ME-SU — SHE MAY SUE! SHE MAY SHOW SUE!"
 **Kanji:** 二 (two) + 小 (small) + 木 (tree). "TWO small TREES = SHOWING a sign!"
 
-# Kaishi 1.5k Mnemonics — Words 801–900
+# 801–900
 
 ---
 
@@ -5429,7 +5429,7 @@ Same kanji 他, different reading. When meaning "OTHER people/things," read TA. 
 **pronunciation:** "KA-NOU — CAR NO! CAR NO is POSSIBLE!"
 **Kanji:** 可 = possible. 能 = ability. "POSSIBLE + ABILITY = POTENTIAL!"
 
-# Kaishi 1.5k Mnemonics — Words 901–1000
+# 901–1000
 
 ---
 
@@ -5833,7 +5833,7 @@ Same kanji 他, different reading. When meaning "OTHER people/things," read TA. 
 **pronunciation:** "KE-MO-NO — KEY MOAT NO! KEY MOAT NO = BEAST!"
 **Kanji:** 獣 has 田 (field) + 犬 (dog). "FIELD DOG = BEAST!"
 
-# Kaishi 1.5k Mnemonics — Words 1001–1100
+# 1001–1100
 
 ---
 
@@ -6237,7 +6237,7 @@ Same kanji 他, different reading. When meaning "OTHER people/things," read TA. 
 **pronunciation:** "MA-CHI-GA-I — MY CHEESE GUY! MY CHEESE GUY = MISTAKE!"
 **Kanji:** 間 = interval. 違 = differ. "DIFFERING INTERVAL = MISTAKE!"
 
-# Kaishi 1.5k Mnemonics — Words 1101–1200
+# 1101–1200
 
 ---
 
@@ -6641,7 +6641,7 @@ Same kanji 他, different reading. When meaning "OTHER people/things," read TA. 
 **pronunciation:** "YO-RU — YOUR ROO! YOUR ROO = STOP BY!"
 **Kanji:** 土 (earth) + 多 (many). "EARTH + MANY = STOPPING BY!"
 
-# Kaishi 1.5k Mnemonics — Words 1201–1300
+# 1201–1300
 
 ---
 
@@ -7045,7 +7045,7 @@ Same kanji 他, different reading. When meaning "OTHER people/things," read TA. 
 **pronunciation:** "DE-KI-GO-TO — GATE KEY GO TOE! GATE KEY = INCIDENT!"
 **Kanji:** 出来 = happen. 事 = thing. "HAPPENING + THING = INCIDENT!"
 
-# Kaishi 1.5k Mnemonics — Words 1301–1400
+# 1301–1400
 
 ---
 
@@ -7448,7 +7448,7 @@ Same kanji 他, different reading. When meaning "OTHER people/things," read TA. 
 ## 1400. 続き (つづき / tsuzuki) — continuation
 **pronunciation:** "TSU-ZU-KI — TSU ZOO KEY! TSU ZOO = CONTINUATION!"
 **Kanji:** 糸 (thread) + 買 (buy). "THREAD + BUYING = CONTINUING!"
-# Kaishi 1.5k Mnemonics — Words 1401–1500
+# 1401–1500
 
 ---
 
