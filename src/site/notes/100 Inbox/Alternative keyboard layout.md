@@ -1,5 +1,5 @@
 ---
-{"class":["project"],"created_on":"23-05-26 @ 22:54","tags":["project"],"source":null,"related":null,"description":null,"aliases":["AKL","akl"],"status":"open","dg-publish":true,"permalink":"/100-inbox/alternative-keyboard-layout/","dgPassFrontmatter":true,"created":"2026-07-26T08:39:06.395+05:00","updated":"2026-05-24T17:03:44.942+05:00","dg-note-properties":{"class":["project"],"created_on":"23-05-26 @ 22:54","tags":["project"],"source":null,"related":null,"description":null,"aliases":["AKL","akl"],"status":"open"}}
+{"class":["project"],"created_on":"23-05-26 @ 22:54","tags":["project"],"source":null,"related":null,"description":null,"aliases":["AKL","akl"],"status":"open","dg-publish":true,"permalink":"/100-inbox/alternative-keyboard-layout/","dgPassFrontmatter":true,"created":"2026-07-26T08:39:06.395+05:00","updated":"2026-09-01T22:32:33.594+05:00","dg-note-properties":{"class":["project"],"created_on":"23-05-26 @ 22:54","tags":["project"],"source":null,"related":null,"description":null,"aliases":["AKL","akl"],"status":"open"}}
 ---
 
 
@@ -41,3 +41,5 @@
 ## Colemak-dh
 - most widely supported, basically a dh mod of base colemak to reduce middle row usage ![image-53.webp](/img/user/zawaruto-assets/attachments/image-53.webp)
 
+# Update
+# 

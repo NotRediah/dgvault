@@ -3,7 +3,7 @@
 ---
 
 x2025-12-07 00:12
-course:[[000 MOCS/CS50x\|CS50x]]
+course:[[200 Areas/220 Tech/CS50x\|CS50x]]
 
 > ***This was a shit show***
 # Hello World

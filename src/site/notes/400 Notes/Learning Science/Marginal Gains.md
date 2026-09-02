@@ -2,7 +2,7 @@
 {"dg-publish":true,"tags":["icanstudy"],"permalink":"/400-notes/learning-science/marginal-gains/","dgPassFrontmatter":true,"created":"2026-07-26T08:39:07.273+05:00","updated":"2026-04-23T23:37:25.630+05:00","dg-note-properties":{"tags":["icanstudy"]}}
 ---
 
-moc: [[000 MOCS/ICS\|ICS]]
+moc: [[200 Areas/210 Uni/SP26 ICT/ICS\|ICS]]
 
 ---
 # Additive Gains vs Compounding Gains
@@ -17,4 +17,4 @@ Compounding gains change the state where as additive gains only add
 			- problem solving 
 			- etc
 # Tracking
-[3.1-Resource-Marginal-Gains-Tracking.pdf](/img/user/zawaruto-assets/attachments/3.1-Resource-Marginal-Gains-Tracking.pdf)
+[[3.1-Resource-Marginal-Gains-Tracking.pdf\|3.1-Resource-Marginal-Gains-Tracking.pdf]]

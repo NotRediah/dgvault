@@ -3,7 +3,7 @@
 ---
 
 
-moc: [[000 MOCS/ICS\|ICS]]
+moc: [[200 Areas/210 Uni/SP26 ICT/ICS\|ICS]]
 
 ---
 - Flashcards
