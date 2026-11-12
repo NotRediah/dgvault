@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/500-fun/drawabox/","dgPassFrontmatter":true,"created":"2026-07-26T08:39:06.279+05:00","updated":"2026-07-05T13:55:03.067+05:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/500-fun/drawabox/","dgPassFrontmatter":true,"created":"2026-07-26T08:39:06.279+05:00","updated":"2026-07-05T13:55:03.067+05:00","ctime":"2026-07-26T08:39:06.279+05:00","mtime":"2026-07-05T13:55:03.067+05:00","dg-note-properties":{}}
 ---
 
 > Gonna take "> 5 months"

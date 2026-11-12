@@ -1,5 +1,5 @@
 ---
-{"class":["guide"],"created_on":"01-09-26 @ 22:23","tags":["guide"],"source":null,"related":null,"author":null,"description":null,"aliases":null,"status":"open","dg-publish":true,"permalink":"/100-inbox/tasknote/","dgPassFrontmatter":true,"created":"2026-09-01T22:22:30.496+05:00","updated":"2026-09-02T09:52:40.122+05:00","dg-note-properties":{"class":["guide"],"created_on":"01-09-26 @ 22:23","tags":["guide"],"source":null,"related":null,"author":null,"description":null,"aliases":null,"status":"open"}}
+{"class":["guide"],"created_on":"01-09-26 @ 22:23","tags":["guide"],"source":null,"related":null,"author":null,"description":null,"aliases":null,"status":"open","dg-publish":true,"permalink":"/100-inbox/tasknote/","dgPassFrontmatter":true,"created":"2026-09-01T22:22:30.496+05:00","updated":"2026-09-02T09:52:40.122+05:00","ctime":"2026-09-01T22:22:30.496+05:00","mtime":"2026-09-02T09:52:40.122+05:00","dg-note-properties":{"class":["guide"],"created_on":"01-09-26 @ 22:23","tags":["guide"],"source":null,"related":null,"author":null,"description":null,"aliases":null,"status":"open"}}
 ---
 
 # 01-09-2026

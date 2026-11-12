@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/100-inbox/kaishi-mnemonics/","dgPassFrontmatter":true,"created":"2026-08-17T18:06:57.496+05:00","updated":"2026-08-17T19:20:13.206+05:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/100-inbox/kaishi-mnemonics/","dgPassFrontmatter":true,"created":"2026-08-17T18:06:57.496+05:00","updated":"2026-08-17T19:20:13.206+05:00","ctime":"2026-08-17T18:06:57.496+05:00","mtime":"2026-08-17T19:20:13.206+05:00","dg-note-properties":{}}
 ---
 
 # 1–100

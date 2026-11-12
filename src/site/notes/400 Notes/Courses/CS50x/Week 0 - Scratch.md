@@ -1,5 +1,5 @@
 ---
-{"source":"https://cs50.harvard.edu/x/weeks/0/","dg-publish":true,"permalink":"/400-notes/courses/cs-50x/week-0-scratch/","dgPassFrontmatter":true,"created":"2026-07-26T08:39:07.209+05:00","updated":"2026-04-23T23:37:25.629+05:00","dg-note-properties":{"source":"https://cs50.harvard.edu/x/weeks/0/"}}
+{"source":"https://cs50.harvard.edu/x/weeks/0/","dg-publish":true,"permalink":"/400-notes/courses/cs-50x/week-0-scratch/","dgPassFrontmatter":true,"created":"2026-07-26T08:39:07.209+05:00","updated":"2026-04-23T23:37:25.629+05:00","ctime":"2026-07-26T08:39:07.209+05:00","mtime":"2026-04-23T23:37:25.629+05:00","dg-note-properties":{"source":"https://cs50.harvard.edu/x/weeks/0/"}}
 ---
 
 2025-12-07 00:11

@@ -1,5 +1,5 @@
 ---
-{"id":"vim motions","aliases":[],"tags":["guide","linux"],"dg-publish":true,"permalink":"/500-fun/guides/vim-motions/","dgPassFrontmatter":true,"created":"2026-07-26T08:39:07.576+05:00","updated":"2026-07-08T15:21:11.920+05:00","dg-note-properties":{"id":"vim motions","aliases":[],"tags":["guide","linux"]}}
+{"id":"vim motions","aliases":[],"tags":["guide","linux"],"dg-publish":true,"permalink":"/500-fun/guides/vim-motions/","dgPassFrontmatter":true,"created":"2026-07-26T08:39:07.576+05:00","updated":"2026-07-08T15:21:11.920+05:00","ctime":"2026-07-26T08:39:07.576+05:00","mtime":"2026-07-08T15:21:11.920+05:00","dg-note-properties":{"id":"vim motions","aliases":[],"tags":["guide","linux"]}}
 ---
 
 

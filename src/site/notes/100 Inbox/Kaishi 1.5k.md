@@ -1,5 +1,5 @@
 ---
-{"class":["guide"],"created_on":"13-08-26 @ 13:31","tags":["guide"],"source":null,"related":null,"author":null,"description":null,"aliases":null,"status":"open","dg-publish":true,"permalink":"/100-inbox/kaishi-1-5k/","dgPassFrontmatter":true,"created":"2026-08-13T13:31:22.997+05:00","updated":"2026-08-17T18:16:41.986+05:00","dg-note-properties":{"class":["guide"],"created_on":"13-08-26 @ 13:31","tags":["guide"],"source":null,"related":null,"author":null,"description":null,"aliases":null,"status":"open"}}
+{"class":["guide"],"created_on":"13-08-26 @ 13:31","tags":["guide"],"source":null,"related":null,"author":null,"description":null,"aliases":null,"status":"open","dg-publish":true,"permalink":"/100-inbox/kaishi-1-5k/","dgPassFrontmatter":true,"created":"2026-08-13T13:31:22.997+05:00","updated":"2026-08-17T18:16:41.986+05:00","ctime":"2026-08-13T13:31:22.997+05:00","mtime":"2026-08-17T18:16:41.986+05:00","dg-note-properties":{"class":["guide"],"created_on":"13-08-26 @ 13:31","tags":["guide"],"source":null,"related":null,"author":null,"description":null,"aliases":null,"status":"open"}}
 ---
 
 [[100 Inbox/kaishi_mnemonics\|kaishi_mnemonics]]

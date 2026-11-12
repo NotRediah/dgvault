@@ -1,5 +1,5 @@
 ---
-{"class":["guide"],"created_on":"13-08-26 @ 19:42","tags":["guide"],"source":null,"related":null,"author":null,"description":null,"aliases":null,"status":"open","dg-publish":true,"permalink":"/500-fun/japanese/","dgPassFrontmatter":true,"created":"2026-08-13T19:42:13.301+05:00","updated":"2026-08-17T18:16:46.020+05:00","dg-note-properties":{"class":["guide"],"created_on":"13-08-26 @ 19:42","tags":["guide"],"source":null,"related":null,"author":null,"description":null,"aliases":null,"status":"open"}}
+{"class":["guide"],"created_on":"13-08-26 @ 19:42","tags":["guide"],"source":null,"related":null,"author":null,"description":null,"aliases":null,"status":"open","dg-publish":true,"permalink":"/500-fun/japanese/","dgPassFrontmatter":true,"created":"2026-08-13T19:42:13.301+05:00","updated":"2026-08-17T18:16:46.020+05:00","ctime":"2026-08-13T19:42:13.301+05:00","mtime":"2026-08-17T18:16:46.020+05:00","dg-note-properties":{"class":["guide"],"created_on":"13-08-26 @ 19:42","tags":["guide"],"source":null,"related":null,"author":null,"description":null,"aliases":null,"status":"open"}}
 ---
 
 ## Resources

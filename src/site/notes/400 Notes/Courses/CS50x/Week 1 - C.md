@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/400-notes/courses/cs-50x/week-1-c/","dgPassFrontmatter":true,"created":"2026-07-26T08:39:07.213+05:00","updated":"2026-04-23T23:37:25.629+05:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/400-notes/courses/cs-50x/week-1-c/","dgPassFrontmatter":true,"created":"2026-07-26T08:39:07.213+05:00","updated":"2026-04-23T23:37:25.629+05:00","ctime":"2026-07-26T08:39:07.213+05:00","mtime":"2026-04-23T23:37:25.629+05:00","dg-note-properties":{}}
 ---
 
 x2025-12-07 00:12
