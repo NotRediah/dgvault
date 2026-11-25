@@ -1,0 +1,14 @@
+---
+{"dg-publish":true,"tags":["topic/notion"],"permalink":"/notes/projects/haiderisgonnakhs/","dgPassFrontmatter":true,"created":"2026-07-26T08:39:07.596+05:00","updated":"2026-11-24T14:06:36.489+05:00","ctime":"2026-07-26T08:39:07.596+05:00","mtime":"2026-11-24T14:06:36.489+05:00","dg-note-properties":{"tags":["topic/notion"]}}
+---
+
+
+
+> pabbly connect video upload automation for videos above 1 gig)
+> [Channel link](https://youtube.com/@haiderlikesgaymen?si=cUV1MJwnHoAOCJh-) (haiderwantstokhs@gmail.com)
+>
+
+[Video explaining my shi](https://youtu.be/dOdkcoIwfRI?si=Z8sd_q-oCTSBSISk)
+
+- [Spreadsheet](https://docs.google.com/spreadsheets/d/1Q_Vv_mfe3PrSVF77E5MGwTZiE70GJMVe_6v6av7t0CY/edit?usp=drivesdk) (on haiderakbar69420@gmail.com)
+- Pabbly connect thingy

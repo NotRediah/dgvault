@@ -1,0 +1,30 @@
+---
+{"dg-publish":true,"permalink":"/notes/drawabox/","dgPassFrontmatter":true,"created":"2026-07-26T08:39:06.279+05:00","updated":"2026-11-24T14:05:22.424+05:00","ctime":"2026-07-26T08:39:06.279+05:00","mtime":"2026-11-24T14:05:22.424+05:00","dg-note-properties":{}}
+---
+
+> Gonna take "> 5 months"
+
+
+> [!NOTE] Note
+> This isn't meant to be the only material you're still gonna have to draw unc
+
+# Lessons
+[[Notes/Courses/Drawabox/Lesson 0\|Lesson 0]]
+[[Notes/Courses/Drawabox/Lesson 1\|Lesson 1]]
+# Goal
+- improving spatial reasoning
+	thinking in 3 dimensions unc
+	does not cover alot of perspectives (smh more courses)
+- Observation and Markmaking
+-
+
+# Roadmap
+![Drawabox roadmap.jpg](/img/user/zawaruto-assets/attachments/Drawabox%20roadmap.jpg)
+
+
+# What does it not teach
+- Light
+- Color Theory
+- Gesture
+- Anatomy
+- Style
